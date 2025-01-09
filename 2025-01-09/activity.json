@@ -52,7 +52,7 @@
       "averageChangeSize": 9242.5
     },
     "Zeytoon": {
-      "totalLinesAdded": 82919,
+      "totalLinesAdded": 82959,
       "totalLinesRemoved": 0,
       "totalActiveTime": 101,
       "files": {
@@ -2277,6 +2277,22 @@
               "removed": []
             },
             "duration": 2,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\includes\\global.inc.php": [
+          {
+            "timestamp": "2025-01-09T08:45:06.007Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\includes\\global.inc.php",
+            "fileType": ".php",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "php"
           }
         ]
