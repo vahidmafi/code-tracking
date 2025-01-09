@@ -1,0 +1,64 @@
+{
+  "date": "2025-01-09",
+  "projects": {
+    "horizon": {
+      "totalLinesAdded": 18485,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\fa\\index.html": [
+          {
+            "timestamp": "2025-01-09T07:09:38.957Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\fa\\index.html",
+            "fileType": ".html",
+            "linesAdded": 9196,
+            "linesRemoved": 0,
+            "projectName": "horizon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          }
+        ],
+        "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\en\\index.html": [
+          {
+            "timestamp": "2025-01-09T07:09:56.552Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\en\\index.html",
+            "fileType": ".html",
+            "linesAdded": 9289,
+            "linesRemoved": 0,
+            "projectName": "horizon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 1
+      },
+      "changeFrequency": {
+        "7": 1
+      },
+      "topFiles": [
+        "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\fa\\index.html",
+        "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\en\\index.html"
+      ],
+      "averageChangeSize": 9242.5
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    7
+  ],
+  "mostUsedLanguages": [
+    "html"
+  ]
+}
