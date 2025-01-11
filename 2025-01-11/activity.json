@@ -53,9 +53,9 @@
       "averageChangeSize": 585.5
     },
     "shop": {
-      "totalLinesAdded": 772,
+      "totalLinesAdded": 774,
       "totalLinesRemoved": 3,
-      "totalActiveTime": 3,
+      "totalActiveTime": 5,
       "files": {
         "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\.gitignore": [
           {
@@ -112,6 +112,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-01-11T11:59:20.354Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-01-11T12:00:37.631Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "unknown"
           }
         ],
