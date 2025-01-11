@@ -1,0 +1,66 @@
+{
+  "date": "2025-01-11",
+  "projects": {
+    "www": {
+      "totalLinesAdded": 1171,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "g:\\My Information\\My Websites\\_ehsan\\www\\assets\\js\\custom.fa.js": [
+          {
+            "timestamp": "2025-01-11T05:56:14.701Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\assets\\js\\custom.fa.js",
+            "fileType": ".js",
+            "linesAdded": 483,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries-germany.html": [
+          {
+            "timestamp": "2025-01-11T05:56:14.816Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries-germany.html",
+            "fileType": ".html",
+            "linesAdded": 688,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 0,
+        "html": 1
+      },
+      "changeFrequency": {
+        "9": 1
+      },
+      "topFiles": [
+        "g:\\My Information\\My Websites\\_ehsan\\www\\assets\\js\\custom.fa.js",
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries-germany.html"
+      ],
+      "averageChangeSize": 585.5
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "html",
+    "js"
+  ]
+}
