@@ -2,9 +2,9 @@
   "date": "2025-01-24",
   "projects": {
     "Zeytoon": {
-      "totalLinesAdded": 12001,
-      "totalLinesRemoved": 2,
-      "totalActiveTime": 23,
+      "totalLinesAdded": 12353,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 24,
       "files": {
         "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\composer.json": [
           {
@@ -396,6 +396,36 @@
             },
             "duration": 1,
             "language": "php"
+          }
+        ],
+        "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\.gitignore": [
+          {
+            "timestamp": "2025-01-24T14:49:58.785Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 352,
+            "linesRemoved": 0,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-01-24T14:50:29.584Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ]
       },
