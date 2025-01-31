@@ -2,7 +2,7 @@
   "date": "2025-01-31",
   "projects": {
     "Zeytoon": {
-      "totalLinesAdded": 41,
+      "totalLinesAdded": 82,
       "totalLinesRemoved": 0,
       "totalActiveTime": 2,
       "files": {
@@ -33,6 +33,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-01-31T08:54:23.826Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\includes\\global.inc.php",
+            "fileType": ".php",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "php"
           }
         ]
