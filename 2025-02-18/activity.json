@@ -1,0 +1,106 @@
+{
+  "date": "2025-02-18",
+  "projects": {
+    "www": {
+      "totalLinesAdded": 983,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 6,
+      "files": {
+        "g:\\My Information\\My Websites\\_ehsan\\www\\assets\\js\\custom.fa.js": [
+          {
+            "timestamp": "2025-02-18T13:22:23.145Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\assets\\js\\custom.fa.js",
+            "fileType": ".js",
+            "linesAdded": 483,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-02-18T13:24:29.757Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\assets\\js\\custom.fa.js",
+            "fileType": ".js",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-02-18T13:25:31.582Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\assets\\js\\custom.fa.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\assets\\js\\custom.en.js": [
+          {
+            "timestamp": "2025-02-18T13:24:47.558Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\assets\\js\\custom.en.js",
+            "fileType": ".js",
+            "linesAdded": 472,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-02-18T13:25:00.833Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\assets\\js\\custom.en.js",
+            "fileType": ".js",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 6
+      },
+      "changeFrequency": {
+        "16": 6
+      },
+      "topFiles": [
+        "g:\\My Information\\My Websites\\_ehsan\\www\\assets\\js\\custom.fa.js",
+        "g:\\My Information\\My Websites\\_ehsan\\www\\assets\\js\\custom.en.js"
+      ],
+      "averageChangeSize": 196.6
+    }
+  },
+  "totalActiveTime": 6,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    16
+  ],
+  "mostUsedLanguages": [
+    "js"
+  ]
+}
