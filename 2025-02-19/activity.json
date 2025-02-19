@@ -1,0 +1,47 @@
+{
+  "date": "2025-02-19",
+  "projects": {
+    "www": {
+      "totalLinesAdded": 10486,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\index.html": [
+          {
+            "timestamp": "2025-02-19T11:22:21.847Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\index.html",
+            "fileType": ".html",
+            "linesAdded": 10486,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 0
+      },
+      "changeFrequency": {
+        "14": 0
+      },
+      "topFiles": [
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\index.html"
+      ],
+      "averageChangeSize": 10486
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    14
+  ],
+  "mostUsedLanguages": [
+    "html"
+  ]
+}
