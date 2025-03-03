@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 154147                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 154147                |
-| **Active Time** (⌚)   | 568 minutes |
+| **Lines Added** (➕)   | 156305                                          |
+| **Lines Removed** (➖) | 3                                        |
+| **Net Change** (↕)    | 156302                |
+| **Active Time** (⌚)   | 581 minutes |
 
 
 ## Modified Files
@@ -274,8 +274,12 @@
 - **countries.html** (+416, -0)
 - **countries-italy.html** (+574, -0)
 - **events-economics-2025.html** (+489, -0)
-- **events-details-1.html** (+476, -0)
+- **events-details-1.html** (+482, -0)
 - **events.html** (+428, -0)
+- **profile-details-farid-moeinifar.html** (+537, -3)
+- **profile-details-hadiseh-eslamian.html** (+539, -0)
+- **profile-details-kimia-ghazanfari.html** (+537, -0)
+- **profile-details-sahand-rejali.html** (+539, -0)
 
 ## Visualizations
 
@@ -284,7 +288,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".html" : 154147
+".html" : 156308
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -292,8 +296,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"14h" : 478
+"14h" : 491
 ```
 
 
-> **Last Updated:** 3/3/2025, 2:53:00 PM
+> **Last Updated:** 3/3/2025, 2:58:00 PM
