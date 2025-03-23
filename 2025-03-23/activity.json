@@ -2,9 +2,9 @@
   "date": "2025-03-23",
   "projects": {
     "Zeytoon": {
-      "totalLinesAdded": 36901,
-      "totalLinesRemoved": 53,
-      "totalActiveTime": 93,
+      "totalLinesAdded": 36933,
+      "totalLinesRemoved": 68,
+      "totalActiveTime": 94,
       "files": {
         "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\includes\\global.inc.php": [
           {
@@ -880,6 +880,20 @@
             },
             "duration": 2,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-03-23T20:08:00.888Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\skins\\wol-leapto\\styleSheets\\assets\\js\\main.min.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 15,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\admin\\v4\\webnegar_forms-render.php": [
@@ -986,6 +1000,22 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "c:\\Users\\Vahid\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-03-23T20:07:42.036Z",
+            "fileName": "c:\\Users\\Vahid\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
