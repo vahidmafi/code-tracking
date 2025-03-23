@@ -2,9 +2,9 @@
   "date": "2025-03-23",
   "projects": {
     "Zeytoon": {
-      "totalLinesAdded": 35442,
+      "totalLinesAdded": 35444,
       "totalLinesRemoved": 52,
-      "totalActiveTime": 83,
+      "totalActiveTime": 88,
       "files": {
         "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\includes\\global.inc.php": [
           {
@@ -837,6 +837,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-23T18:46:04.626Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\skins\\wol-leapto\\styleSheets\\assets\\js\\main.min.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "js"
           }
         ],
