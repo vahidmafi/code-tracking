@@ -2,9 +2,9 @@
   "date": "2025-03-23",
   "projects": {
     "Zeytoon": {
-      "totalLinesAdded": 23858,
-      "totalLinesRemoved": 7,
-      "totalActiveTime": 11,
+      "totalLinesAdded": 23859,
+      "totalLinesRemoved": 11,
+      "totalActiveTime": 13,
       "files": {
         "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\includes\\global.inc.php": [
           {
@@ -167,6 +167,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tpl"
+          },
+          {
+            "timestamp": "2025-03-23T06:07:06.108Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\skins\\wol-leapto\\styleTemplates\\global\\index.tpl",
+            "fileType": ".tpl",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tpl"
+          },
+          {
+            "timestamp": "2025-03-23T06:08:25.209Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\skins\\wol-leapto\\styleTemplates\\global\\index.tpl",
+            "fileType": ".tpl",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tpl"
           }
         ]
