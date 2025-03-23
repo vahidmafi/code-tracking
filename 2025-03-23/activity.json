@@ -3,7 +3,7 @@
   "projects": {
     "Zeytoon": {
       "totalLinesAdded": 25369,
-      "totalLinesRemoved": 18,
+      "totalLinesRemoved": 20,
       "totalActiveTime": 53,
       "files": {
         "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\includes\\global.inc.php": [
@@ -279,6 +279,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "tpl"
+          },
+          {
+            "timestamp": "2025-03-23T11:48:07.022Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\skins\\wol-leapto\\styleTemplates\\global\\index.tpl",
+            "fileType": ".tpl",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tpl"
           }
         ],
