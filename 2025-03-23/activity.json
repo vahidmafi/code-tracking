@@ -2,7 +2,7 @@
   "date": "2025-03-23",
   "projects": {
     "Zeytoon": {
-      "totalLinesAdded": 25450,
+      "totalLinesAdded": 25451,
       "totalLinesRemoved": 35,
       "totalActiveTime": 72,
       "files": {
@@ -391,6 +391,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "tpl"
+          },
+          {
+            "timestamp": "2025-03-23T12:17:33.210Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\skins\\wol-leapto\\styleTemplates\\global\\index.tpl",
+            "fileType": ".tpl",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tpl"
           }
         ],
