@@ -3,7 +3,7 @@
   "projects": {
     "Zeytoon": {
       "totalLinesAdded": 2321,
-      "totalLinesRemoved": 6,
+      "totalLinesRemoved": 7,
       "totalActiveTime": 11,
       "files": {
         "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\includes\\global.inc.php": [
@@ -121,6 +121,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-03-23T05:37:32.970Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\admin\\v4\\zeytoon_category-edit.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "php"
           }
         ]
