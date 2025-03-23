@@ -2,7 +2,7 @@
   "date": "2025-03-23",
   "projects": {
     "Zeytoon": {
-      "totalLinesAdded": 30186,
+      "totalLinesAdded": 35442,
       "totalLinesRemoved": 38,
       "totalActiveTime": 83,
       "files": {
@@ -870,6 +870,22 @@
             },
             "duration": 2,
             "language": "php"
+          }
+        ],
+        "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\admin\\v4\\lang\\farsi.xml": [
+          {
+            "timestamp": "2025-03-23T13:01:14.094Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\admin\\v4\\lang\\farsi.xml",
+            "fileType": ".xml",
+            "linesAdded": 5256,
+            "linesRemoved": 0,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "xml"
           }
         ]
       },
