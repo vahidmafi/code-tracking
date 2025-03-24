@@ -2,9 +2,9 @@
   "date": "2025-03-24",
   "projects": {
     "Zeytoon": {
-      "totalLinesAdded": 1507,
+      "totalLinesAdded": 3843,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 1,
       "files": {
         "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\skins\\wol-leapto\\styleTemplates\\content\\index.tpl": [
           {
@@ -50,6 +50,38 @@
             },
             "duration": 0,
             "language": "js"
+          }
+        ],
+        "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\skins\\wol-leapto\\styleTemplates\\content\\viewProd.tpl": [
+          {
+            "timestamp": "2025-03-24T05:20:11.183Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\skins\\wol-leapto\\styleTemplates\\content\\viewProd.tpl",
+            "fileType": ".tpl",
+            "linesAdded": 1223,
+            "linesRemoved": 0,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tpl"
+          }
+        ],
+        "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\includes\\content\\viewProd.inc.php": [
+          {
+            "timestamp": "2025-03-24T05:20:45.937Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\includes\\content\\viewProd.inc.php",
+            "fileType": ".php",
+            "linesAdded": 1113,
+            "linesRemoved": 0,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ]
       },
