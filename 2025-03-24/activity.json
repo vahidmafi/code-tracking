@@ -1,0 +1,47 @@
+{
+  "date": "2025-03-24",
+  "projects": {
+    "Zeytoon": {
+      "totalLinesAdded": 65,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\skins\\wol-leapto\\styleTemplates\\content\\index.tpl": [
+          {
+            "timestamp": "2025-03-24T04:56:11.133Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\skins\\wol-leapto\\styleTemplates\\content\\index.tpl",
+            "fileType": ".tpl",
+            "linesAdded": 65,
+            "linesRemoved": 0,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tpl"
+          }
+        ]
+      },
+      "languageStats": {
+        "tpl": 0
+      },
+      "changeFrequency": {
+        "4": 0
+      },
+      "topFiles": [
+        "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\skins\\wol-leapto\\styleTemplates\\content\\index.tpl"
+      ],
+      "averageChangeSize": 65
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    4
+  ],
+  "mostUsedLanguages": [
+    "tpl"
+  ]
+}
