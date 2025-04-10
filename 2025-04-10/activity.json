@@ -2,9 +2,9 @@
   "date": "2025-04-10",
   "projects": {
     "Zeytoon": {
-      "totalLinesAdded": 2548,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 2,
+      "totalLinesAdded": 2549,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 5,
       "files": {
         "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\index.php": [
           {
@@ -19,6 +19,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-10T06:19:28.902Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\index.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-10T06:22:16.409Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\index.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "php"
           }
         ],
