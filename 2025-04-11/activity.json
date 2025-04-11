@@ -2,7 +2,7 @@
   "date": "2025-04-11",
   "projects": {
     "Zeytoon": {
-      "totalLinesAdded": 151,
+      "totalLinesAdded": 237,
       "totalLinesRemoved": 63,
       "totalActiveTime": 8,
       "files": {
@@ -80,6 +80,22 @@
             },
             "duration": 1,
             "language": "php"
+          }
+        ],
+        "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\modules\\scripts\\zeytoon\\sample.bonbast.info.json": [
+          {
+            "timestamp": "2025-04-11T07:59:39.984Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\modules\\scripts\\zeytoon\\sample.bonbast.info.json",
+            "fileType": ".json",
+            "linesAdded": 86,
+            "linesRemoved": 0,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
