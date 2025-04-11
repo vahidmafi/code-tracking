@@ -3,8 +3,8 @@
   "projects": {
     "Zeytoon": {
       "totalLinesAdded": 770,
-      "totalLinesRemoved": 82,
-      "totalActiveTime": 71,
+      "totalLinesRemoved": 88,
+      "totalActiveTime": 74,
       "files": {
         "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\modules\\scripts\\zeytoon\\cron.php": [
           {
@@ -553,6 +553,20 @@
             "fileType": ".php",
             "linesAdded": 2,
             "linesRemoved": 0,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-11T10:16:39.758Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\includes\\content\\gateway.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 6,
             "projectName": "Zeytoon",
             "content": {
               "added": [],
