@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 490                                          |
+| **Lines Added** (➕)   | 945                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 490                |
-| **Active Time** (⌚)   | 0 minute |
+| **Net Change** (↕)    | 945                |
+| **Active Time** (⌚)   | 5 minutes |
 
 
 ## Modified Files
 - **events-mechanic-2025.html** (+490, -0)
+- **events.html** (+455, -0)
 
 ## Visualizations
 
@@ -20,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".html" : 490
+".html" : 945
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +29,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"10h" : 1
+"10h" : 4
 ```
 
 
-> **Last Updated:** 4/17/2025, 10:13:13 AM
+> **Last Updated:** 4/17/2025, 10:18:13 AM
