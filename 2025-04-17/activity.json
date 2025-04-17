@@ -2,9 +2,9 @@
   "date": "2025-04-17",
   "projects": {
     "Zeytoon": {
-      "totalLinesAdded": 23249,
-      "totalLinesRemoved": 17,
-      "totalActiveTime": 88,
+      "totalLinesAdded": 23252,
+      "totalLinesRemoved": 20,
+      "totalActiveTime": 92,
       "files": {
         "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\api\\index.php": [
           {
@@ -779,6 +779,76 @@
               "removed": []
             },
             "duration": 3,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-17T12:24:59.969Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\includes\\content\\profile.inc.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-17T12:25:06.543Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\includes\\content\\profile.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-17T12:25:25.275Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\includes\\content\\profile.inc.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-17T12:25:34.610Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\includes\\content\\profile.inc.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-17T12:25:38.043Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\includes\\content\\profile.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ],
