@@ -895,9 +895,9 @@
       "averageChangeSize": 511
     },
     "horizon": {
-      "totalLinesAdded": 979,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 5,
+      "totalLinesAdded": 983,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 7,
       "files": {
         "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\fa\\events-mechanic-2025.html": [
           {
@@ -926,6 +926,48 @@
               "removed": []
             },
             "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-04-17T15:46:52.371Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\fa\\events-mechanic-2025.html",
+            "fileType": ".html",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "horizon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-04-17T15:47:47.152Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\fa\\events-mechanic-2025.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "horizon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-04-17T15:48:06.859Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\fa\\events-mechanic-2025.html",
+            "fileType": ".html",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "horizon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "html"
           }
         ],
