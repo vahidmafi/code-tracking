@@ -1,0 +1,47 @@
+{
+  "date": "2025-04-17",
+  "projects": {
+    "Zeytoon": {
+      "totalLinesAdded": 511,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\api\\index.php": [
+          {
+            "timestamp": "2025-04-17T05:10:21.788Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\api\\index.php",
+            "fileType": ".php",
+            "linesAdded": 511,
+            "linesRemoved": 0,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 0
+      },
+      "changeFrequency": {
+        "6": 0
+      },
+      "topFiles": [
+        "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\api\\index.php"
+      ],
+      "averageChangeSize": 511
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    6
+  ],
+  "mostUsedLanguages": [
+    "php"
+  ]
+}
