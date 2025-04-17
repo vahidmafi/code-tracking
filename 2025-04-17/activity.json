@@ -2,9 +2,9 @@
   "date": "2025-04-17",
   "projects": {
     "Zeytoon": {
-      "totalLinesAdded": 7442,
-      "totalLinesRemoved": 7,
-      "totalActiveTime": 52,
+      "totalLinesAdded": 22288,
+      "totalLinesRemoved": 13,
+      "totalActiveTime": 59,
       "files": {
         "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\api\\index.php": [
           {
@@ -508,6 +508,64 @@
             },
             "duration": 1,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-04-17T10:41:55.844Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\includes\\content\\reg.inc.php",
+            "fileType": ".php",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-17T10:42:39.136Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\includes\\content\\reg.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\skins\\wol-leapto\\styleSheets\\assets\\css\\demo2.min.css": [
+          {
+            "timestamp": "2025-04-17T10:45:05.128Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\skins\\wol-leapto\\styleSheets\\assets\\css\\demo2.min.css",
+            "fileType": ".css",
+            "linesAdded": 14840,
+            "linesRemoved": 0,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-04-17T10:45:26.715Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\skins\\wol-leapto\\styleSheets\\assets\\css\\demo2.min.css",
+            "fileType": ".css",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ]
       },
