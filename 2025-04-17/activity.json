@@ -2,9 +2,9 @@
   "date": "2025-04-17",
   "projects": {
     "Zeytoon": {
-      "totalLinesAdded": 22958,
+      "totalLinesAdded": 23247,
       "totalLinesRemoved": 15,
-      "totalActiveTime": 79,
+      "totalActiveTime": 81,
       "files": {
         "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\api\\index.php": [
           {
@@ -724,6 +724,50 @@
             },
             "duration": 1,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-04-17T11:30:03.044Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\includes\\content\\profile.inc.php",
+            "fileType": ".php",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-17T11:30:19.460Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\includes\\content\\profile.inc.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\skins\\wol-leapto\\styleTemplates\\content\\profile.tpl": [
+          {
+            "timestamp": "2025-04-17T11:30:59.190Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\skins\\wol-leapto\\styleTemplates\\content\\profile.tpl",
+            "fileType": ".tpl",
+            "linesAdded": 280,
+            "linesRemoved": 0,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tpl"
           }
         ]
       },
