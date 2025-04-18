@@ -2,9 +2,9 @@
   "date": "2025-04-18",
   "projects": {
     "Zeytoon": {
-      "totalLinesAdded": 24732,
-      "totalLinesRemoved": 2545,
-      "totalActiveTime": 31,
+      "totalLinesAdded": 24734,
+      "totalLinesRemoved": 2548,
+      "totalActiveTime": 35,
       "files": {
         "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\includes\\functions.inc.php": [
           {
@@ -204,6 +204,20 @@
             },
             "duration": 1,
             "language": "tpl"
+          },
+          {
+            "timestamp": "2025-04-18T07:00:49.772Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\skins\\wol-leapto\\styleTemplates\\content\\cart.tpl",
+            "fileType": ".tpl",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tpl"
           }
         ],
         "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\includes\\content\\cart.inc.php": [
@@ -294,6 +308,36 @@
             },
             "duration": 1,
             "language": "css"
+          }
+        ],
+        "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\language\\fa\\lang.inc.php": [
+          {
+            "timestamp": "2025-04-18T06:59:56.472Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\language\\fa\\lang.inc.php",
+            "fileType": ".php",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-18T07:00:23.521Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\language\\fa\\lang.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ]
       },
