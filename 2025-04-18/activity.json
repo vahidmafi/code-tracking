@@ -1,0 +1,61 @@
+{
+  "date": "2025-04-18",
+  "projects": {
+    "Zeytoon": {
+      "totalLinesAdded": 1879,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 4,
+      "files": {
+        "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\includes\\functions.inc.php": [
+          {
+            "timestamp": "2025-04-18T05:40:26.355Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\includes\\functions.inc.php",
+            "fileType": ".php",
+            "linesAdded": 1879,
+            "linesRemoved": 0,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-18T05:43:47.749Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\includes\\functions.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 4
+      },
+      "changeFrequency": {
+        "6": 4
+      },
+      "topFiles": [
+        "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\includes\\functions.inc.php"
+      ],
+      "averageChangeSize": 940.5
+    }
+  },
+  "totalActiveTime": 4,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    6
+  ],
+  "mostUsedLanguages": [
+    "php"
+  ]
+}
