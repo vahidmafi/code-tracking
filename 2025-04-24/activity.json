@@ -2,9 +2,9 @@
   "date": "2025-04-24",
   "projects": {
     "Zeytoon": {
-      "totalLinesAdded": 1058,
+      "totalLinesAdded": 1060,
       "totalLinesRemoved": 11,
-      "totalActiveTime": 33,
+      "totalActiveTime": 37,
       "files": {
         "c:\\Program Files (x86)\\PHPMaker 2019\\languages\\farsi.xml": [
           {
@@ -315,6 +315,22 @@
               "removed": []
             },
             "duration": 2,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\language\\fa\\lang.inc.php": [
+          {
+            "timestamp": "2025-04-24T08:38:34.644Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\language\\fa\\lang.inc.php",
+            "fileType": ".php",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "php"
           }
         ]
