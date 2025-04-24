@@ -1,0 +1,47 @@
+{
+  "date": "2025-04-24",
+  "projects": {
+    "Zeytoon": {
+      "totalLinesAdded": 484,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Program Files (x86)\\PHPMaker 2019\\languages\\farsi.xml": [
+          {
+            "timestamp": "2025-04-24T06:20:17.987Z",
+            "fileName": "c:\\Program Files (x86)\\PHPMaker 2019\\languages\\farsi.xml",
+            "fileType": ".xml",
+            "linesAdded": 484,
+            "linesRemoved": 0,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "xml"
+          }
+        ]
+      },
+      "languageStats": {
+        "xml": 0
+      },
+      "changeFrequency": {
+        "7": 0
+      },
+      "topFiles": [
+        "c:\\Program Files (x86)\\PHPMaker 2019\\languages\\farsi.xml"
+      ],
+      "averageChangeSize": 484
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    7
+  ],
+  "mostUsedLanguages": [
+    "xml"
+  ]
+}
