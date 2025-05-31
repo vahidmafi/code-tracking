@@ -3,8 +3,8 @@
   "projects": {
     "shop": {
       "totalLinesAdded": 2547,
-      "totalLinesRemoved": 35,
-      "totalActiveTime": 14,
+      "totalLinesRemoved": 42,
+      "totalActiveTime": 17,
       "files": {
         "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\zeytoon_coupons-add.php": [
           {
@@ -61,6 +61,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-31T12:06:21.637Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\zeytoon_coupons-add.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "php"
           }
         ],
