@@ -2,9 +2,9 @@
   "date": "2025-05-31",
   "projects": {
     "shop": {
-      "totalLinesAdded": 2547,
+      "totalLinesAdded": 3676,
       "totalLinesRemoved": 42,
-      "totalActiveTime": 17,
+      "totalActiveTime": 19,
       "files": {
         "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\zeytoon_coupons-add.php": [
           {
@@ -105,6 +105,50 @@
               "removed": []
             },
             "duration": 2,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\viewProd.inc.php": [
+          {
+            "timestamp": "2025-05-31T12:51:33.912Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\viewProd.inc.php",
+            "fileType": ".php",
+            "linesAdded": 1125,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-31T12:52:24.322Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\viewProd.inc.php",
+            "fileType": ".php",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-05-31T12:52:50.074Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\viewProd.inc.php",
+            "fileType": ".php",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ]
