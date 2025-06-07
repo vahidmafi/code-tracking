@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 389                                          |
+| **Lines Added** (➕)   | 778                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 389                |
+| **Net Change** (↕)    | 778                |
 | **Active Time** (⌚)   | 0 minute |
 
 
 ## Modified Files
 - **landing.html** (+389, -0)
+- **landing-events-lifescience-2025.html** (+389, -0)
 
 ## Visualizations
 
@@ -20,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".html" : 389
+".html" : 778
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,7 +30,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "14h" : 1
+"15h" : 1
 ```
 
 
-> **Last Updated:** 6/7/2025, 2:49:21 PM
+> **Last Updated:** 6/7/2025, 3:44:21 PM

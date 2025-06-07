@@ -2,7 +2,7 @@
   "date": "2025-06-07",
   "projects": {
     "www": {
-      "totalLinesAdded": 389,
+      "totalLinesAdded": 778,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -10,6 +10,22 @@
           {
             "timestamp": "2025-06-07T11:17:49.740Z",
             "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\en\\lnd\\landing.html",
+            "fileType": ".html",
+            "linesAdded": 389,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\landing\\landing-events-lifescience-2025.html": [
+          {
+            "timestamp": "2025-06-07T12:10:13.382Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\landing\\landing-events-lifescience-2025.html",
             "fileType": ".html",
             "linesAdded": 389,
             "linesRemoved": 0,
