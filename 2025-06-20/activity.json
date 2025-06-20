@@ -89,6 +89,70 @@
         "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\api\\index.php"
       ],
       "averageChangeSize": 176.66666666666666
+    },
+    "horizon": {
+      "totalLinesAdded": 981,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 5,
+      "files": {
+        "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\assets\\js\\custom.fa.js": [
+          {
+            "timestamp": "2025-06-20T21:16:00.900Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\assets\\js\\custom.fa.js",
+            "fileType": ".js",
+            "linesAdded": 506,
+            "linesRemoved": 0,
+            "projectName": "horizon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-06-20T21:16:26.665Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\assets\\js\\custom.fa.js",
+            "fileType": ".js",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "horizon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\assets\\js\\custom.fa.free.js": [
+          {
+            "timestamp": "2025-06-20T21:20:24.276Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\assets\\js\\custom.fa.free.js",
+            "fileType": ".js",
+            "linesAdded": 471,
+            "linesRemoved": 0,
+            "projectName": "horizon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 5
+      },
+      "changeFrequency": {
+        "22": 5
+      },
+      "topFiles": [
+        "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\assets\\js\\custom.fa.js",
+        "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\assets\\js\\custom.fa.free.js"
+      ],
+      "averageChangeSize": 327
     }
   },
   "totalActiveTime": 3,
