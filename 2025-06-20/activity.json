@@ -91,7 +91,7 @@
       "averageChangeSize": 176.66666666666666
     },
     "horizon": {
-      "totalLinesAdded": 981,
+      "totalLinesAdded": 984,
       "totalLinesRemoved": 0,
       "totalActiveTime": 5,
       "files": {
@@ -122,6 +122,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-06-20T21:35:51.494Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\assets\\js\\custom.fa.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "horizon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ],
