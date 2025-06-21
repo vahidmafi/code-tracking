@@ -2,9 +2,9 @@
   "date": "2025-06-21",
   "projects": {
     "horizon": {
-      "totalLinesAdded": 29,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 15,
+      "totalLinesAdded": 67,
+      "totalLinesRemoved": 23,
+      "totalActiveTime": 24,
       "files": {
         "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\assets\\js\\custom.fa.js": [
           {
@@ -124,6 +124,48 @@
             "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\assets\\js\\custom.fa.js",
             "fileType": ".js",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "horizon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-06-21T07:53:30.692Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\assets\\js\\custom.fa.js",
+            "fileType": ".js",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "horizon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-06-21T07:55:42.978Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\assets\\js\\custom.fa.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 23,
+            "projectName": "horizon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-06-21T07:56:16.900Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\assets\\js\\custom.fa.js",
+            "fileType": ".js",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "horizon",
             "content": {
