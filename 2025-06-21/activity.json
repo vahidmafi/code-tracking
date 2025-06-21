@@ -1,0 +1,61 @@
+{
+  "date": "2025-06-21",
+  "projects": {
+    "horizon": {
+      "totalLinesAdded": 8,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\assets\\js\\custom.fa.js": [
+          {
+            "timestamp": "2025-06-21T07:38:53.118Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\assets\\js\\custom.fa.js",
+            "fileType": ".js",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "horizon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-06-21T07:40:30.962Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\assets\\js\\custom.fa.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "horizon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 2
+      },
+      "changeFrequency": {
+        "8": 2
+      },
+      "topFiles": [
+        "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\assets\\js\\custom.fa.js"
+      ],
+      "averageChangeSize": 4
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    8
+  ],
+  "mostUsedLanguages": [
+    "js"
+  ]
+}
