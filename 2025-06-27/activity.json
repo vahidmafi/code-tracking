@@ -2,9 +2,9 @@
   "date": "2025-06-27",
   "projects": {
     "horizon": {
-      "totalLinesAdded": 1330,
-      "totalLinesRemoved": 532,
-      "totalActiveTime": 18,
+      "totalLinesAdded": 1333,
+      "totalLinesRemoved": 546,
+      "totalActiveTime": 22,
       "files": {
         "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\fa\\services.html": [
           {
@@ -203,6 +203,62 @@
               "removed": []
             },
             "duration": 3,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-06-27T16:08:20.856Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\fa\\services-payment-general.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "horizon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-06-27T16:09:18.119Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\fa\\services-payment-general.html",
+            "fileType": ".html",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "horizon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-06-27T16:10:03.580Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\fa\\services-payment-general.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "horizon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-06-27T16:10:18.790Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\fa\\services-payment-general.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "horizon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "html"
           }
         ]
