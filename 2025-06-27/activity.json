@@ -1,0 +1,47 @@
+{
+  "date": "2025-06-27",
+  "projects": {
+    "horizon": {
+      "totalLinesAdded": 500,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\fa\\services.html": [
+          {
+            "timestamp": "2025-06-27T14:23:05.406Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\fa\\services.html",
+            "fileType": ".html",
+            "linesAdded": 500,
+            "linesRemoved": 0,
+            "projectName": "horizon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 0
+      },
+      "changeFrequency": {
+        "15": 0
+      },
+      "topFiles": [
+        "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\fa\\services.html"
+      ],
+      "averageChangeSize": 500
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    15
+  ],
+  "mostUsedLanguages": [
+    "html"
+  ]
+}
