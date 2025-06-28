@@ -2,7 +2,7 @@
   "date": "2025-06-28",
   "projects": {
     "horizon": {
-      "totalLinesAdded": 32,
+      "totalLinesAdded": 33,
       "totalLinesRemoved": 3,
       "totalActiveTime": 9,
       "files": {
@@ -61,6 +61,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-06-28T13:10:55.822Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\horizon\\fa\\services-payment-general.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "horizon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "html"
           }
         ]
