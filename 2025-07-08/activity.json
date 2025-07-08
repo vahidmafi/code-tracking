@@ -47,6 +47,53 @@
         "c:\\Users\\Vahid\\AppData\\Roaming\\Code\\User\\settings.json"
       ],
       "averageChangeSize": 24.5
+    },
+    "Zeytoon": {
+      "totalLinesAdded": 129,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\download.php": [
+          {
+            "timestamp": "2025-07-08T09:43:11.540Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\download.php",
+            "fileType": ".php",
+            "linesAdded": 128,
+            "linesRemoved": 0,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-08T09:43:45.074Z",
+            "fileName": "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\download.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Zeytoon",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 1
+      },
+      "changeFrequency": {
+        "10": 1
+      },
+      "topFiles": [
+        "c:\\Users\\Vahid\\Documents\\GitHub\\Zeytoon\\download.php"
+      ],
+      "averageChangeSize": 64.5
     }
   },
   "totalActiveTime": 1,
