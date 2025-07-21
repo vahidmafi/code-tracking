@@ -2,9 +2,9 @@
   "date": "2025-07-21",
   "projects": {
     "shop": {
-      "totalLinesAdded": 10924,
-      "totalLinesRemoved": 767,
-      "totalActiveTime": 72,
+      "totalLinesAdded": 11010,
+      "totalLinesRemoved": 768,
+      "totalActiveTime": 78,
       "files": {
         "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\language\\fa\\lang.inc.php": [
           {
@@ -875,6 +875,64 @@
               "removed": []
             },
             "duration": 0,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\sms\\telegram\\telegram.lovebot.php": [
+          {
+            "timestamp": "2025-07-21T12:56:28.421Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\sms\\telegram\\telegram.lovebot.php",
+            "fileType": ".php",
+            "linesAdded": 83,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-21T12:57:24.448Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\sms\\telegram\\telegram.lovebot.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-21T12:58:44.073Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\sms\\telegram\\telegram.lovebot.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-21T12:59:17.984Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\sms\\telegram\\telegram.lovebot.php",
+            "fileType": ".php",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ]
