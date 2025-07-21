@@ -2,7 +2,7 @@
   "date": "2025-07-21",
   "projects": {
     "shop": {
-      "totalLinesAdded": 8078,
+      "totalLinesAdded": 8751,
       "totalLinesRemoved": 26,
       "totalActiveTime": 39,
       "files": {
@@ -445,6 +445,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\sms\\telegram\\telegram.functions.general.php": [
+          {
+            "timestamp": "2025-07-21T11:30:30.560Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\sms\\telegram\\telegram.functions.general.php",
+            "fileType": ".php",
+            "linesAdded": 673,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "php"
           }
         ]
