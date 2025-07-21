@@ -3,8 +3,8 @@
   "projects": {
     "shop": {
       "totalLinesAdded": 10296,
-      "totalLinesRemoved": 766,
-      "totalActiveTime": 70,
+      "totalLinesRemoved": 767,
+      "totalActiveTime": 72,
       "files": {
         "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\language\\fa\\lang.inc.php": [
           {
@@ -771,6 +771,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-21T12:01:33.002Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\sms\\telegram\\cron.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "php"
           }
         ],
