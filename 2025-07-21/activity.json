@@ -2,9 +2,9 @@
   "date": "2025-07-21",
   "projects": {
     "shop": {
-      "totalLinesAdded": 7566,
+      "totalLinesAdded": 7568,
       "totalLinesRemoved": 26,
-      "totalActiveTime": 36,
+      "totalActiveTime": 38,
       "files": {
         "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\language\\fa\\lang.inc.php": [
           {
@@ -37,6 +37,20 @@
           },
           {
             "timestamp": "2025-07-21T10:21:28.662Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\language\\fa\\lang.inc.php",
+            "fileType": ".php",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-21T11:10:48.600Z",
             "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\language\\fa\\lang.inc.php",
             "fileType": ".php",
             "linesAdded": 2,
