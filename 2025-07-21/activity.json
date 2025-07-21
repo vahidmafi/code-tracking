@@ -2,9 +2,9 @@
   "date": "2025-07-21",
   "projects": {
     "shop": {
-      "totalLinesAdded": 8755,
-      "totalLinesRemoved": 26,
-      "totalActiveTime": 42,
+      "totalLinesAdded": 9520,
+      "totalLinesRemoved": 714,
+      "totalActiveTime": 45,
       "files": {
         "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\language\\fa\\lang.inc.php": [
           {
@@ -496,6 +496,66 @@
             "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\sms\\telegram\\telegram.functions.general.php",
             "fileType": ".php",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\sms\\telegram\\cron.php": [
+          {
+            "timestamp": "2025-07-21T11:38:26.897Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\sms\\telegram\\cron.php",
+            "fileType": ".php",
+            "linesAdded": 742,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-21T11:39:14.449Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\sms\\telegram\\cron.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 673,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-07-21T11:39:23.648Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\sms\\telegram\\cron.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 15,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\cron.php": [
+          {
+            "timestamp": "2025-07-21T11:39:29.180Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\cron.php",
+            "fileType": ".php",
+            "linesAdded": 23,
             "linesRemoved": 0,
             "projectName": "shop",
             "content": {
