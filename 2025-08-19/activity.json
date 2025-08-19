@@ -1,0 +1,47 @@
+{
+  "date": "2025-08-19",
+  "projects": {
+    "shop": {
+      "totalLinesAdded": 96,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\scripts\\zeytoon\\functions.sources.tgju.org.php": [
+          {
+            "timestamp": "2025-08-19T08:16:16.406Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\scripts\\zeytoon\\functions.sources.tgju.org.php",
+            "fileType": ".php",
+            "linesAdded": 96,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 0
+      },
+      "changeFrequency": {
+        "9": 0
+      },
+      "topFiles": [
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\scripts\\zeytoon\\functions.sources.tgju.org.php"
+      ],
+      "averageChangeSize": 96
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "php"
+  ]
+}
