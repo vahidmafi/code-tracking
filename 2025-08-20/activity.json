@@ -35,9 +35,9 @@
       "averageChangeSize": 674
     },
     "www": {
-      "totalLinesAdded": 1467,
+      "totalLinesAdded": 1520,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 9,
+      "totalActiveTime": 13,
       "files": {
         "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\landing\\landing-service-mentoring-and-support.html": [
           {
@@ -80,6 +80,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-08-20T06:03:16.322Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\landing\\landing-service-mentoring-and-support.html",
+            "fileType": ".html",
+            "linesAdded": 53,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "html"
           }
         ],
