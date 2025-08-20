@@ -33,6 +33,39 @@
         "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\index.php"
       ],
       "averageChangeSize": 674
+    },
+    "www": {
+      "totalLinesAdded": 513,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\landing\\landing-service-mentoring-and-support.html": [
+          {
+            "timestamp": "2025-08-20T05:55:06.580Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\landing\\landing-service-mentoring-and-support.html",
+            "fileType": ".html",
+            "linesAdded": 513,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 0
+      },
+      "changeFrequency": {
+        "6": 0
+      },
+      "topFiles": [
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\landing\\landing-service-mentoring-and-support.html"
+      ],
+      "averageChangeSize": 513
     }
   },
   "totalActiveTime": 0,
