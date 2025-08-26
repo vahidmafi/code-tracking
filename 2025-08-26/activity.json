@@ -2,7 +2,7 @@
   "date": "2025-08-26",
   "projects": {
     "shop": {
-      "totalLinesAdded": 2148,
+      "totalLinesAdded": 2154,
       "totalLinesRemoved": 0,
       "totalActiveTime": 5,
       "files": {
@@ -63,6 +63,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-26T05:11:41.800Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\zeytoon_order_sum-view.php",
+            "fileType": ".php",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "php"
           }
         ]
