@@ -1,0 +1,92 @@
+{
+  "date": "2025-08-26",
+  "projects": {
+    "shop": {
+      "totalLinesAdded": 2148,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 5,
+      "files": {
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\global.inc.php": [
+          {
+            "timestamp": "2025-08-26T05:02:25.417Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\global.inc.php",
+            "fileType": ".php",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\zeytoon_order_sum-view.php": [
+          {
+            "timestamp": "2025-08-26T05:05:22.941Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\zeytoon_order_sum-view.php",
+            "fileType": ".php",
+            "linesAdded": 2106,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-26T05:05:30.606Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\zeytoon_order_sum-view.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-08-26T05:06:01.934Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\zeytoon_order_sum-view.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 5
+      },
+      "changeFrequency": {
+        "6": 5
+      },
+      "topFiles": [
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\zeytoon_order_sum-view.php",
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\global.inc.php"
+      ],
+      "averageChangeSize": 537
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    6
+  ],
+  "mostUsedLanguages": [
+    "php"
+  ]
+}
