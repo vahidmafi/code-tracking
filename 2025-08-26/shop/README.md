@@ -4,17 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2589                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 2589                |
-| **Active Time** (⌚)   | 16 minutes |
+| **Lines Added** (➕)   | 6638                                          |
+| **Lines Removed** (➖) | 1                                        |
+| **Net Change** (↕)    | 6637                |
+| **Active Time** (⌚)   | 23 minutes |
 
 
 ## Modified Files
 - **global.inc.php** (+40, -0)
 - **zeytoon_order_sum-view.php** (+2116, -0)
-- **viewOrder.inc.php** (+248, -0)
-- **viewOrder.tpl** (+185, -0)
+- **viewOrder.inc.php** (+248, -1)
+- **viewOrder.tpl** (+186, -0)
+- **lang.inc.php** (+4048, -0)
 
 ## Visualizations
 
@@ -23,8 +24,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".php" : 2404
-".tpl" : 185
+".php" : 6453
+".tpl" : 186
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,8 +33,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"06h" : 13
+"06h" : 17
 ```
 
 
-> **Last Updated:** 8/26/2025, 6:37:24 AM
+> **Last Updated:** 8/26/2025, 6:42:24 AM
