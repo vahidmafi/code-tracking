@@ -3,7 +3,7 @@
   "projects": {
     "shop": {
       "totalLinesAdded": 6638,
-      "totalLinesRemoved": 2,
+      "totalLinesRemoved": 3,
       "totalActiveTime": 27,
       "files": {
         "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\global.inc.php": [
@@ -235,6 +235,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "tpl"
+          },
+          {
+            "timestamp": "2025-08-26T05:56:13.644Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\skins\\wol-leapto\\styleTemplates\\content\\viewOrder.tpl",
+            "fileType": ".tpl",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tpl"
           }
         ],
