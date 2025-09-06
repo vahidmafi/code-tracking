@@ -1043,9 +1043,9 @@
       "averageChangeSize": 90
     },
     "www": {
-      "totalLinesAdded": 1215,
-      "totalLinesRemoved": 4,
-      "totalActiveTime": 2,
+      "totalLinesAdded": 1216,
+      "totalLinesRemoved": 5,
+      "totalActiveTime": 6,
       "files": {
         "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\landing\\landing-service-mentoring-and-support.html": [
           {
@@ -1132,6 +1132,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-06T12:40:45.005Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\landing\\landing-service-uinpass-apply-full-service.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-06T12:42:55.869Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\landing\\landing-service-uinpass-apply-full-service.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "html"
           }
         ]
