@@ -2,9 +2,9 @@
   "date": "2025-09-06",
   "projects": {
     "shop": {
-      "totalLinesAdded": 18983,
+      "totalLinesAdded": 21767,
       "totalLinesRemoved": 13,
-      "totalActiveTime": 81,
+      "totalActiveTime": 87,
       "files": {
         "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\confirmed.inc.php": [
           {
@@ -896,6 +896,82 @@
             },
             "duration": 1,
             "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\skins\\wol-leapto\\styleTemplates\\boxes\\session.tpl": [
+          {
+            "timestamp": "2025-09-06T09:45:54.004Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\skins\\wol-leapto\\styleTemplates\\boxes\\session.tpl",
+            "fileType": ".tpl",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tpl"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\skins\\wol-leapto\\styleTemplates\\global\\index.tpl": [
+          {
+            "timestamp": "2025-09-06T09:47:34.883Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\skins\\wol-leapto\\styleTemplates\\global\\index.tpl",
+            "fileType": ".tpl",
+            "linesAdded": 2356,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tpl"
+          },
+          {
+            "timestamp": "2025-09-06T09:47:42.309Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\skins\\wol-leapto\\styleTemplates\\global\\index.tpl",
+            "fileType": ".tpl",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tpl"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\skins\\wol-leapto\\styleTemplates\\global\\cart.tpl": [
+          {
+            "timestamp": "2025-09-06T09:49:20.888Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\skins\\wol-leapto\\styleTemplates\\global\\cart.tpl",
+            "fileType": ".tpl",
+            "linesAdded": 411,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tpl"
+          },
+          {
+            "timestamp": "2025-09-06T09:49:25.654Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\skins\\wol-leapto\\styleTemplates\\global\\cart.tpl",
+            "fileType": ".tpl",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tpl"
           }
         ]
       },
