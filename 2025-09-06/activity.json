@@ -2,9 +2,9 @@
   "date": "2025-09-06",
   "projects": {
     "shop": {
-      "totalLinesAdded": 1701,
+      "totalLinesAdded": 2986,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 18,
+      "totalActiveTime": 20,
       "files": {
         "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\confirmed.inc.php": [
           {
@@ -152,6 +152,52 @@
             },
             "duration": 4,
             "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\zeytoon_report_order_a-info.php": [
+          {
+            "timestamp": "2025-09-06T05:57:21.282Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\zeytoon_report_order_a-info.php",
+            "fileType": ".php",
+            "linesAdded": 1218,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-09-06T05:57:51.606Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\zeytoon_report_order_a-info.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\asus\\.dbclient\\storage\\config.jsonc": [
+          {
+            "timestamp": "2025-09-06T05:58:35.146Z",
+            "fileName": "c:\\Users\\asus\\.dbclient\\storage\\config.jsonc",
+            "fileType": ".jsonc",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsonc"
           }
         ]
       },
