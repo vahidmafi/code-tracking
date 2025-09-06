@@ -911,7 +911,7 @@
       "averageChangeSize": 90
     },
     "www": {
-      "totalLinesAdded": 634,
+      "totalLinesAdded": 1214,
       "totalLinesRemoved": 0,
       "totalActiveTime": 2,
       "files": {
@@ -942,6 +942,22 @@
               "removed": []
             },
             "duration": 2,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\landing\\landing-service-uinpass-apply-full-service.html": [
+          {
+            "timestamp": "2025-09-06T09:36:18.676Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\landing\\landing-service-uinpass-apply-full-service.html",
+            "fileType": ".html",
+            "linesAdded": 580,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "html"
           }
         ]
