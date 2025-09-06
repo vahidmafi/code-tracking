@@ -2,9 +2,9 @@
   "date": "2025-09-06",
   "projects": {
     "shop": {
-      "totalLinesAdded": 2986,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 20,
+      "totalLinesAdded": 5135,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 30,
       "files": {
         "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\confirmed.inc.php": [
           {
@@ -182,6 +182,62 @@
             },
             "duration": 1,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-09-06T06:02:48.083Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\zeytoon_report_order_a-info.php",
+            "fileType": ".php",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-09-06T06:02:52.311Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\zeytoon_report_order_a-info.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-09-06T06:03:53.020Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\zeytoon_report_order_a-info.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-09-06T06:04:39.965Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\zeytoon_report_order_a-info.php",
+            "fileType": ".php",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ],
         "c:\\Users\\asus\\.dbclient\\storage\\config.jsonc": [
@@ -198,6 +254,22 @@
             },
             "duration": 1,
             "language": "jsonc"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\zeytoon_order_sum-view.php": [
+          {
+            "timestamp": "2025-09-06T06:05:10.716Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\zeytoon_order_sum-view.php",
+            "fileType": ".php",
+            "linesAdded": 2116,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ]
       },
