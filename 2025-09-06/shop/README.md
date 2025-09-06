@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7746                                          |
+| **Lines Added** (➕)   | 15918                                          |
 | **Lines Removed** (➖) | 12                                        |
-| **Net Change** (↕)    | 7734                |
-| **Active Time** (⌚)   | 61 minutes |
+| **Net Change** (↕)    | 15906                |
+| **Active Time** (⌚)   | 69 minutes |
 
 
 ## Modified Files
@@ -18,7 +18,9 @@
 - **zeytoon_report_order_a-info.php** (+1265, -3)
 - **config.jsonc** (+66, -0)
 - **zeytoon_order_sum-view.php** (+2116, -0)
-- **zeytoon_report_order_a-list.php** (+2598, -8)
+- **zeytoon_report_order_a-list.php** (+2627, -8)
+- **farsi.xml** (+5271, -0)
+- **english.xml** (+2872, -0)
 
 ## Visualizations
 
@@ -27,8 +29,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".php" : 7692
+".php" : 7721
 ".jsonc" : 66
+".xml" : 8143
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -38,8 +41,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "05h" : 10
 "06h" : 3
-"07h" : 32
+"07h" : 38
 ```
 
 
-> **Last Updated:** 9/6/2025, 7:20:15 AM
+> **Last Updated:** 9/6/2025, 7:25:15 AM

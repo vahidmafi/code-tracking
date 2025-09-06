@@ -2,9 +2,9 @@
   "date": "2025-09-06",
   "projects": {
     "shop": {
-      "totalLinesAdded": 7746,
+      "totalLinesAdded": 15918,
       "totalLinesRemoved": 12,
-      "totalActiveTime": 61,
+      "totalActiveTime": 69,
       "files": {
         "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\confirmed.inc.php": [
           {
@@ -650,6 +650,94 @@
             },
             "duration": 1,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-09-06T06:21:02.172Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\zeytoon_report_order_a-list.php",
+            "fileType": ".php",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-09-06T06:21:55.634Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\zeytoon_report_order_a-list.php",
+            "fileType": ".php",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\lang\\farsi.xml": [
+          {
+            "timestamp": "2025-09-06T06:23:44.732Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\lang\\farsi.xml",
+            "fileType": ".xml",
+            "linesAdded": 5266,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-09-06T06:23:56.731Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\lang\\farsi.xml",
+            "fileType": ".xml",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\lang\\english.xml": [
+          {
+            "timestamp": "2025-09-06T06:24:07.693Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\lang\\english.xml",
+            "fileType": ".xml",
+            "linesAdded": 2862,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-09-06T06:24:36.300Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\lang\\english.xml",
+            "fileType": ".xml",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
           }
         ]
       },
