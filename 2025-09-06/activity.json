@@ -909,6 +909,53 @@
         "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\confirmed.inc.php"
       ],
       "averageChangeSize": 90
+    },
+    "www": {
+      "totalLinesAdded": 634,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\landing\\landing-service-mentoring-and-support.html": [
+          {
+            "timestamp": "2025-09-06T09:15:40.496Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\landing\\landing-service-mentoring-and-support.html",
+            "fileType": ".html",
+            "linesAdded": 633,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-06T09:17:04.798Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\landing\\landing-service-mentoring-and-support.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 2
+      },
+      "changeFrequency": {
+        "10": 2
+      },
+      "topFiles": [
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\landing\\landing-service-mentoring-and-support.html"
+      ],
+      "averageChangeSize": 317
     }
   },
   "totalActiveTime": 1,
