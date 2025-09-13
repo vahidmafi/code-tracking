@@ -1,0 +1,47 @@
+{
+  "date": "2025-09-13",
+  "projects": {
+    "shop": {
+      "totalLinesAdded": 3567,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\zeytoon_inventory-edit.php": [
+          {
+            "timestamp": "2025-09-13T07:04:15.135Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\zeytoon_inventory-edit.php",
+            "fileType": ".php",
+            "linesAdded": 3567,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 0
+      },
+      "changeFrequency": {
+        "8": 0
+      },
+      "topFiles": [
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\zeytoon_inventory-edit.php"
+      ],
+      "averageChangeSize": 3567
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    8
+  ],
+  "mostUsedLanguages": [
+    "php"
+  ]
+}
