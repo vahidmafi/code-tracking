@@ -2,9 +2,9 @@
   "date": "2025-09-13",
   "projects": {
     "shop": {
-      "totalLinesAdded": 3572,
+      "totalLinesAdded": 4160,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 9,
+      "totalActiveTime": 15,
       "files": {
         "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\zeytoon_inventory-edit.php": [
           {
@@ -50,6 +50,50 @@
             },
             "duration": 5,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-09-13T07:14:26.543Z",
+            "fileName": "g:\\My Information\\My Projects\\Leapto\\Webinar 7\\Download-Webinar-7-Video.html",
+            "fileType": ".html",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-13T07:15:26.059Z",
+            "fileName": "g:\\My Information\\My Projects\\Leapto\\Webinar 7\\Download-Webinar-7-Video.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\ewcfg7.php": [
+          {
+            "timestamp": "2025-09-13T07:16:49.827Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\ewcfg7.php",
+            "fileType": ".php",
+            "linesAdded": 575,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
           }
         ]
       },
