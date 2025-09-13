@@ -2,9 +2,9 @@
   "date": "2025-09-13",
   "projects": {
     "shop": {
-      "totalLinesAdded": 5771,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 34,
+      "totalLinesAdded": 5777,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 35,
       "files": {
         "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\zeytoon_inventory-edit.php": [
           {
@@ -253,6 +253,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tpl"
+          },
+          {
+            "timestamp": "2025-09-13T07:59:06.699Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\skins\\wol-leapto\\styleTemplates\\content\\viewOrder.tpl",
+            "fileType": ".tpl",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tpl"
+          },
+          {
+            "timestamp": "2025-09-13T07:59:49.311Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\skins\\wol-leapto\\styleTemplates\\content\\viewOrder.tpl",
+            "fileType": ".tpl",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tpl"
           }
         ]
