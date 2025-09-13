@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5576                                          |
+| **Lines Added** (➕)   | 5763                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 5576                |
-| **Active Time** (⌚)   | 32 minutes |
+| **Net Change** (↕)    | 5763                |
+| **Active Time** (⌚)   | 34 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,8 @@
 - **Download-Webinar-7-Video.html** (+14, -0)
 - **ewcfg7.php** (+575, -0)
 - **ewmysql7.php** (+1163, -0)
-- **viewOrder.inc.php** (+252, -0)
+- **viewOrder.inc.php** (+254, -0)
+- **viewOrder.tpl** (+185, -0)
 
 ## Visualizations
 
@@ -24,8 +25,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".php" : 5562
+".php" : 5564
 ".html" : 14
+".tpl" : 185
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,8 +35,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"08h" : 13
+"08h" : 16
 ```
 
 
-> **Last Updated:** 9/13/2025, 8:42:21 AM
+> **Last Updated:** 9/13/2025, 8:47:21 AM
