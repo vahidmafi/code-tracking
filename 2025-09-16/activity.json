@@ -232,8 +232,8 @@
     },
     "www": {
       "totalLinesAdded": 365638,
-      "totalLinesRemoved": 110169,
-      "totalActiveTime": 2220,
+      "totalLinesRemoved": 112200,
+      "totalActiveTime": 2233,
       "files": {
         "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\index.html": [
           {
@@ -11823,6 +11823,20 @@
             },
             "duration": 1,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T14:21:18.669Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\en\\profile-details-siavash-rahimi.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 269,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ],
         "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-sajjad-ahmadi.html": [
@@ -14109,6 +14123,20 @@
             },
             "duration": 3,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T14:21:52.999Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\en\\profile-details-sahand-rejali.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 147,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ],
         "g:\\My Information\\My Websites\\_ehsan\\www\\en\\profile-details-nastaran-soleimani.html.bak": [
@@ -15251,6 +15279,20 @@
             },
             "duration": 3,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T14:20:01.659Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\en\\profile-details-emad-farjami.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 152,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ],
         "g:\\My Information\\My Websites\\_ehsan\\www\\en\\profile-details-negar-foulad.html": [
@@ -15266,6 +15308,34 @@
               "removed": []
             },
             "duration": 3,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T14:22:23.106Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\en\\profile-details-negar-foulad.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 148,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T14:22:30.402Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\en\\profile-details-negar-foulad.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "html"
           }
         ],
@@ -18477,6 +18547,20 @@
             },
             "duration": 1,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T14:19:47.593Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\en\\profile-details-elham-rahmani.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 262,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ],
         "g:\\My Information\\My Websites\\_ehsan\\www\\en\\profile-details-farzane-soltani.html": [
@@ -18732,6 +18816,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T14:19:27.151Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\en\\profile-details-elahe-esfandi.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 262,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "html"
           }
         ],
@@ -19792,6 +19890,20 @@
             "fileType": ".html",
             "linesAdded": 728,
             "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T14:20:58.898Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\en\\profile-details-vajihe-montazer.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 248,
             "projectName": "www",
             "content": {
               "added": [],
@@ -21495,6 +21607,20 @@
             },
             "duration": 1,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T14:20:23.841Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\en\\profile-details-hadiseh-eslamian.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 144,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ],
         "g:\\My Information\\My Websites\\_ehsan\\www\\en\\profile-details-hanieh-gerani.html": [
@@ -21775,6 +21901,34 @@
             },
             "duration": 1,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T14:21:35.277Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\en\\profile-details-sara-tavakoli.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 146,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T14:21:36.699Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\en\\profile-details-sara-tavakoli.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ],
         "g:\\My Information\\My Websites\\_ehsan\\www\\en\\terms-of-use.html": [
@@ -21798,6 +21952,20 @@
             "fileType": ".html",
             "linesAdded": 0,
             "linesRemoved": 73,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T14:20:41.064Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\en\\terms-of-use.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 251,
             "projectName": "www",
             "content": {
               "added": [],
