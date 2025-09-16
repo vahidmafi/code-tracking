@@ -231,9 +231,9 @@
       "averageChangeSize": 277.8333333333333
     },
     "www": {
-      "totalLinesAdded": 11993,
-      "totalLinesRemoved": 85,
-      "totalActiveTime": 9,
+      "totalLinesAdded": 12240,
+      "totalLinesRemoved": 301,
+      "totalActiveTime": 18,
       "files": {
         "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\index.html": [
           {
@@ -284,6 +284,20 @@
             "fileType": ".html",
             "linesAdded": 2,
             "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T11:26:59.579Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 155,
             "projectName": "www",
             "content": {
               "added": [],
@@ -381,6 +395,78 @@
             },
             "duration": 0,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-09-16T11:22:53.881Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\assets\\js\\custom.fa.js",
+            "fileType": ".js",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\footer.html": [
+          {
+            "timestamp": "2025-09-16T11:25:09.001Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\footer.html",
+            "fileType": ".html",
+            "linesAdded": 62,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T11:25:14.351Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\footer.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 61,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T11:25:58.894Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\footer.html",
+            "fileType": ".html",
+            "linesAdded": 159,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T11:26:05.614Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\footer.html",
+            "fileType": ".html",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ]
       },
