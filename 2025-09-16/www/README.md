@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 166000                                          |
-| **Lines Removed** (➖) | 51819                                        |
-| **Net Change** (↕)    | 114181                |
-| **Active Time** (⌚)   | 1246 minutes |
+| **Lines Removed** (➖) | 52273                                        |
+| **Net Change** (↕)    | 113727                |
+| **Active Time** (⌚)   | 1254 minutes |
 
 
 ## Modified Files
@@ -133,7 +133,7 @@
 - **profile-details-mahsa-mirzakhani.html** (+503, -156)
 - **profile-details-sarow-saeedi.html** (+494, -156)
 - **profile-details-zeinab-sheikhi.html** (+484, -156)
-- **profile-details-nastaran-soleimani.html.bak** (+495, -0)
+- **profile-details-nastaran-soleimani.html.bak** (+495, -156)
 - **profile-details-hosna-eftekhari.html** (+485, -156)
 - **profile-details-nasim-sarhadi.html** (+495, -156)
 - **profile-details-shadi-bazazordeh.html** (+494, -156)
@@ -292,11 +292,11 @@
 - **services-payment-general.html** (+407, -154)
 - **profile-details-sahand-rejali.html** (+482, -152)
 - **profile-details-kimia-ghazanfari.html** (+480, -152)
-- **profile-details-matin-mohebi.html** (+475, -0)
+- **profile-details-matin-mohebi.html** (+475, -149)
 - **profile-details-sara-shahali.html** (+482, -156)
 - **profile-details-katayon-arabzadeh.html** (+501, -0)
 - **profile-details-sara-tavakoli.html** (+500, -0)
-- **profile-details-mohamad-ghasemi.html** (+489, -0)
+- **profile-details-mohamad-ghasemi.html** (+489, -149)
 - **profile-details-nima-mahmoudi.html** (+549, -214)
 - **profile-details-mani-bayani.html** (+574, -201)
 - **profile-details-mehran-rezvani.html** (+493, -156)
@@ -319,10 +319,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".html" : 216498
+".html" : 216796
 ".json" : 52
 ".js" : 774
-".bak" : 495
+".bak" : 651
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -332,8 +332,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "12h" : 16
 "13h" : 674
-"14h" : 25
+"14h" : 28
 ```
 
 
-> **Last Updated:** 9/16/2025, 2:07:31 PM
+> **Last Updated:** 9/16/2025, 2:12:31 PM

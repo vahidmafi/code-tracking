@@ -232,8 +232,8 @@
     },
     "www": {
       "totalLinesAdded": 166000,
-      "totalLinesRemoved": 51819,
-      "totalActiveTime": 1246,
+      "totalLinesRemoved": 52273,
+      "totalActiveTime": 1254,
       "files": {
         "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\index.html": [
           {
@@ -5421,6 +5421,20 @@
             },
             "duration": 1,
             "language": "bak"
+          },
+          {
+            "timestamp": "2025-09-16T13:08:06.170Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-nastaran-soleimani.html.bak",
+            "fileType": ".bak",
+            "linesAdded": 0,
+            "linesRemoved": 156,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "bak"
           }
         ],
         "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-hosna-eftekhari.html": [
@@ -10303,6 +10317,20 @@
             },
             "duration": 1,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T13:12:10.736Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-matin-mohebi.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 149,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
           }
         ],
         "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-sara-shahali.html": [
@@ -10380,6 +10408,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T13:10:27.569Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-mohamad-ghasemi.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 149,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "html"
           }
         ],
