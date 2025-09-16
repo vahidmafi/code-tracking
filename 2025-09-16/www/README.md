@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 166000                                          |
-| **Lines Removed** (➖) | 52273                                        |
-| **Net Change** (↕)    | 113727                |
-| **Active Time** (⌚)   | 1254 minutes |
+| **Lines Removed** (➖) | 53023                                        |
+| **Net Change** (↕)    | 112977                |
+| **Active Time** (⌚)   | 1264 minutes |
 
 
 ## Modified Files
@@ -53,14 +53,14 @@
 - **profile-details-ali-fereydooni.html** (+541, -215)
 - **profile-details-ali-ghadiri.html** (+550, -221)
 - **profile-details-ali-hadjikhani.html** (+577, -221)
-- **profile-details-ali-heidari.html** (+548, -65)
+- **profile-details-ali-heidari.html** (+548, -212)
 - **profile-details-ali-heydari.html** (+561, -221)
 - **profile-details-ali-karimi.html** (+568, -221)
 - **profile-details-ali-mokhtari.html** (+558, -221)
 - **profile-details-ali-tabesh.html** (+548, -221)
 - **profile-details-ali-taziki.html** (+572, -243)
 - **profile-details-aliakbar-isari.html** (+560, -221)
-- **profile-details-alireza-kashian.html** (+564, -65)
+- **profile-details-alireza-kashian.html** (+564, -217)
 - **profile-details-alireza-khodabakhsh.html** (+558, -221)
 - **profile-details-alireza-lashkari.html** (+551, -215)
 - **profile-details-alireza-malekmohammadi.html** (+560, -221)
@@ -107,7 +107,7 @@
 - **profile-details-farahnaz-ghanbari.html** (+549, -221)
 - **profile-details-faranak-heydari.html** (+539, -215)
 - **profile-details-fariba-ghaffari.html** (+552, -215)
-- **profile-details-farid-moeinifar.html** (+541, -65)
+- **profile-details-farid-moeinifar.html** (+541, -212)
 - **profile-details-farshid-evazabadian.html** (+560, -221)
 - **profile-details-farzane-sepehr.html** (+560, -221)
 - **profile-details-farzane-soltani.html** (+560, -221)
@@ -294,8 +294,8 @@
 - **profile-details-kimia-ghazanfari.html** (+480, -152)
 - **profile-details-matin-mohebi.html** (+475, -149)
 - **profile-details-sara-shahali.html** (+482, -156)
-- **profile-details-katayon-arabzadeh.html** (+501, -0)
-- **profile-details-sara-tavakoli.html** (+500, -0)
+- **profile-details-katayon-arabzadeh.html** (+501, -152)
+- **profile-details-sara-tavakoli.html** (+500, -152)
 - **profile-details-mohamad-ghasemi.html** (+489, -149)
 - **profile-details-nima-mahmoudi.html** (+549, -214)
 - **profile-details-mani-bayani.html** (+574, -201)
@@ -319,7 +319,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".html" : 216796
+".html" : 217546
 ".json" : 52
 ".js" : 774
 ".bak" : 651
@@ -332,8 +332,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "12h" : 16
 "13h" : 674
-"14h" : 28
+"14h" : 33
 ```
 
 
-> **Last Updated:** 9/16/2025, 2:12:31 PM
+> **Last Updated:** 9/16/2025, 2:17:31 PM
