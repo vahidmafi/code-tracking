@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 26010                                          |
-| **Lines Removed** (➖) | 1783                                        |
-| **Net Change** (↕)    | 24227                |
-| **Active Time** (⌚)   | 64 minutes |
+| **Lines Added** (➕)   | 32328                                          |
+| **Lines Removed** (➖) | 2587                                        |
+| **Net Change** (↕)    | 29741                |
+| **Active Time** (⌚)   | 90 minutes |
 
 
 ## Modified Files
@@ -39,6 +39,18 @@
 - **events-mechanic-2025.html** (+743, -65)
 - **events.html** (+501, -64)
 - **mentoring-mechanic-engineering.html** (+579, -65)
+- **mentoring.html** (+361, -64)
+- **order-success.html** (+447, -115)
+- **profile-details-Abbas-arabi.html** (+547, -59)
+- **profile-details-ahmad-bozorgi.html** (+550, -64)
+- **profile-details-ahmad-khazayi.html** (+568, -65)
+- **profile-details-ahmadreza-mostajabi.html** (+548, -65)
+- **profile-details-ahmadreza-nazif.html** (+550, -65)
+- **profile-details-aida-rokni.html** (+542, -59)
+- **profile-details-ali-araabi.html** (+560, -65)
+- **profile-details-ali-darrudi.html** (+561, -65)
+- **profile-details-ali-esmaeili.html** (+543, -59)
+- **profile-details-ali-fereydooni.html** (+541, -59)
 
 ## Visualizations
 
@@ -47,7 +59,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".html" : 26967
+".html" : 34089
 ".json" : 52
 ".js" : 774
 ```
@@ -58,8 +70,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "12h" : 16
-"13h" : 47
+"13h" : 73
 ```
 
 
-> **Last Updated:** 9/16/2025, 1:32:31 PM
+> **Last Updated:** 9/16/2025, 1:37:31 PM
