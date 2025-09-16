@@ -231,9 +231,9 @@
       "averageChangeSize": 277.8333333333333
     },
     "www": {
-      "totalLinesAdded": 153899,
-      "totalLinesRemoved": 7993,
-      "totalActiveTime": 411,
+      "totalLinesAdded": 164371,
+      "totalLinesRemoved": 8233,
+      "totalActiveTime": 452,
       "files": {
         "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\index.html": [
           {
@@ -6506,6 +6506,412 @@
             "fileType": ".html",
             "linesAdded": 491,
             "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\services-mentoring-group.html": [
+          {
+            "timestamp": "2025-09-16T12:52:35.622Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\services-mentoring-group.html",
+            "fileType": ".html",
+            "linesAdded": 710,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\services-payment-general.html": [
+          {
+            "timestamp": "2025-09-16T12:52:35.661Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\services-payment-general.html",
+            "fileType": ".html",
+            "linesAdded": 407,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-sahand-rejali.html": [
+          {
+            "timestamp": "2025-09-16T12:52:35.642Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-sahand-rejali.html",
+            "fileType": ".html",
+            "linesAdded": 482,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-kimia-ghazanfari.html": [
+          {
+            "timestamp": "2025-09-16T12:52:35.684Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-kimia-ghazanfari.html",
+            "fileType": ".html",
+            "linesAdded": 480,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-matin-mohebi.html": [
+          {
+            "timestamp": "2025-09-16T12:53:03.768Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-matin-mohebi.html",
+            "fileType": ".html",
+            "linesAdded": 475,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-sara-shahali.html": [
+          {
+            "timestamp": "2025-09-16T12:53:03.747Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-sara-shahali.html",
+            "fileType": ".html",
+            "linesAdded": 482,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-katayon-arabzadeh.html": [
+          {
+            "timestamp": "2025-09-16T12:53:57.405Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-katayon-arabzadeh.html",
+            "fileType": ".html",
+            "linesAdded": 501,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-sara-tavakoli.html": [
+          {
+            "timestamp": "2025-09-16T12:53:57.346Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-sara-tavakoli.html",
+            "fileType": ".html",
+            "linesAdded": 500,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-mohamad-ghasemi.html": [
+          {
+            "timestamp": "2025-09-16T12:53:57.389Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-mohamad-ghasemi.html",
+            "fileType": ".html",
+            "linesAdded": 489,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-nima-mahmoudi.html": [
+          {
+            "timestamp": "2025-09-16T12:55:02.166Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-nima-mahmoudi.html",
+            "fileType": ".html",
+            "linesAdded": 549,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T12:55:02.178Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-nima-mahmoudi.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 58,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-mani-bayani.html": [
+          {
+            "timestamp": "2025-09-16T12:55:02.133Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-mani-bayani.html",
+            "fileType": ".html",
+            "linesAdded": 574,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T12:55:02.868Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-mani-bayani.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 58,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-mehran-rezvani.html": [
+          {
+            "timestamp": "2025-09-16T12:55:02.153Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-mehran-rezvani.html",
+            "fileType": ".html",
+            "linesAdded": 493,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-pouya-hosseini.html": [
+          {
+            "timestamp": "2025-09-16T12:55:02.190Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-pouya-hosseini.html",
+            "fileType": ".html",
+            "linesAdded": 494,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-pezhman-sharafdin.html": [
+          {
+            "timestamp": "2025-09-16T12:55:02.292Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-pezhman-sharafdin.html",
+            "fileType": ".html",
+            "linesAdded": 492,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-pouria-zarrin.html": [
+          {
+            "timestamp": "2025-09-16T12:55:02.305Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-pouria-zarrin.html",
+            "fileType": ".html",
+            "linesAdded": 484,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-nasim-ebadi.html": [
+          {
+            "timestamp": "2025-09-16T12:55:02.409Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-nasim-ebadi.html",
+            "fileType": ".html",
+            "linesAdded": 493,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-pegah-nabipour.html": [
+          {
+            "timestamp": "2025-09-16T12:55:02.333Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-pegah-nabipour.html",
+            "fileType": ".html",
+            "linesAdded": 494,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-naghmeh-akhavan.html": [
+          {
+            "timestamp": "2025-09-16T12:55:02.502Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-naghmeh-akhavan.html",
+            "fileType": ".html",
+            "linesAdded": 508,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-mehrdad-mohammadi.html": [
+          {
+            "timestamp": "2025-09-16T12:55:02.445Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-mehrdad-mohammadi.html",
+            "fileType": ".html",
+            "linesAdded": 470,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-ramtin-rafatnezhad.html": [
+          {
+            "timestamp": "2025-09-16T12:55:16.144Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-ramtin-rafatnezhad.html",
+            "fileType": ".html",
+            "linesAdded": 537,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T12:55:23.765Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-ramtin-rafatnezhad.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 58,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T12:55:24.909Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-ramtin-rafatnezhad.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\services.html": [
+          {
+            "timestamp": "2025-09-16T12:55:38.014Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\services.html",
+            "fileType": ".html",
+            "linesAdded": 358,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T12:55:39.344Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\services.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 65,
             "projectName": "www",
             "content": {
               "added": [],
