@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 365638                                          |
-| **Lines Removed** (➖) | 112200                                        |
-| **Net Change** (↕)    | 253438                |
-| **Active Time** (⌚)   | 2233 minutes |
+| **Lines Added** (➕)   | 365859                                          |
+| **Lines Removed** (➖) | 112852                                        |
+| **Net Change** (↕)    | 253007                |
+| **Active Time** (⌚)   | 2244 minutes |
 
 
 ## Modified Files
@@ -131,7 +131,7 @@
 - **profile-details-mohammad-mirnouri.html** (+608, -156)
 - **profile-details-siavash-rahimi.html** (+610, -156)
 - **profile-details-mahsa-mirzakhani.html** (+609, -156)
-- **profile-details-sarow-saeedi.html** (+494, -156)
+- **profile-details-sarow-saeedi.html** (+609, -156)
 - **profile-details-zeinab-sheikhi.html** (+597, -156)
 - **profile-details-nastaran-soleimani.html.bak** (+495, -156)
 - **profile-details-hosna-eftekhari.html** (+599, -156)
@@ -157,7 +157,7 @@
 - **profile-details-maryam-naeej.html** (+582, -156)
 - **profile-details-niloofar-nalaee.html** (+594, -156)
 - **profile-details-zahra-samimi.html** (+486, -156)
-- **profile-details-setayesh-yazdani.html** (+494, -156)
+- **profile-details-setayesh-yazdani.html** (+600, -156)
 - **profile-details-samira-mehrabi.html** (+611, -156)
 - **profile-details-saeed-arabloo.html** (+603, -156)
 - **profile-details-tara-emami.html** (+599, -156)
@@ -327,7 +327,7 @@
 - **profile-details-elaheh-memari.html** (+474, -148)
 - **profile-details-armin-hasanirad.html** (+474, -148)
 - **profile-details-sahand-rejali.html** (+476, -147)
-- **profile-details-nastaran-soleimani.html.bak** (+485, -0)
+- **profile-details-nastaran-soleimani.html.bak** (+485, -149)
 - **profile-details-mobin-jabbarzadeh.html** (+473, -148)
 - **profile-details-kiarash-ebrahimi.html** (+476, -148)
 - **profile-details-mahsa-ordibehesht.html** (+474, -148)
@@ -404,7 +404,7 @@
 - **profile-details-tara-emami.html** (+699, -249)
 - **profile-details-zeinab-sheikhi.html** (+700, -249)
 - **profile-details-setayesh-yazdani.html** (+705, -249)
-- **profile-details-mohamad-ghasemi.html** (+711, -0)
+- **profile-details-mohamad-ghasemi.html** (+711, -259)
 - **profile-details-samira-mehrabi.html** (+714, -249)
 - **profile-details-mehrab-beikzadeh.html** (+713, -249)
 - **profile-details-sogand-tayebinaz.html** (+713, -249)
@@ -570,7 +570,7 @@
 - **profile-details-farid-moeinifar.html** (+788, -336)
 - **profile-details-hadiseh-eslamian.html** (+525, -197)
 - **profile-details-hanieh-gerani.html** (+806, -329)
-- **profile-details-katayon-arabzadeh.html** (+784, -77)
+- **profile-details-katayon-arabzadeh.html** (+784, -321)
 - **profile-details-matin-mohebi.html** (+771, -321)
 - **profile-details-saeed-arabloo.html** (+786, -329)
 - **profile-details-saman-arastan.html** (+776, -329)
@@ -587,10 +587,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".html" : 475262
+".html" : 475986
 ".json" : 52
 ".js" : 1388
-".bak" : 1136
+".bak" : 1285
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -601,8 +601,8 @@ title Coding activity by hour (count of changes)
 "12h" : 16
 "13h" : 674
 "14h" : 516
-"15h" : 270
+"15h" : 275
 ```
 
 
-> **Last Updated:** 9/16/2025, 3:22:31 PM
+> **Last Updated:** 9/16/2025, 3:27:55 PM
