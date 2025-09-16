@@ -2,9 +2,9 @@
   "date": "2025-09-16",
   "projects": {
     "landing": {
-      "totalLinesAdded": 1682,
+      "totalLinesAdded": 1732,
       "totalLinesRemoved": 5,
-      "totalActiveTime": 9,
+      "totalActiveTime": 17,
       "files": {
         "g:\\My Information\\My Websites\\hedgetech.ir\\www\\landing\\index.html": [
           {
@@ -78,6 +78,20 @@
             },
             "duration": 1,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T08:34:16.605Z",
+            "fileName": "g:\\My Information\\My Websites\\hedgetech.ir\\www\\landing\\service--option-investor-by-hedge-tech.html",
+            "fileType": ".html",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "landing",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
           }
         ],
         "g:\\My Information\\My Websites\\hedgetech.ir\\www\\landing\\service--option-data-by-hedge-tech.html": [
@@ -93,6 +107,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T08:34:16.587Z",
+            "fileName": "g:\\My Information\\My Websites\\hedgetech.ir\\www\\landing\\service--option-data-by-hedge-tech.html",
+            "fileType": ".html",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "landing",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "html"
           }
         ],
@@ -110,6 +138,20 @@
             },
             "duration": 1,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T08:32:18.834Z",
+            "fileName": "g:\\My Information\\My Websites\\hedgetech.ir\\www\\landing\\contact.html",
+            "fileType": ".html",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "landing",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
           }
         ],
         "g:\\My Information\\My Websites\\hedgetech.ir\\www\\landing\\service--option-accounting-by-hedge-tech.html": [
@@ -126,6 +168,20 @@
             },
             "duration": 1,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T08:34:16.634Z",
+            "fileName": "g:\\My Information\\My Websites\\hedgetech.ir\\www\\landing\\service--option-accounting-by-hedge-tech.html",
+            "fileType": ".html",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "landing",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
           }
         ],
         "g:\\My Information\\My Websites\\hedgetech.ir\\www\\landing\\service--investors-by-hedge-tech.html": [
@@ -141,6 +197,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T08:34:16.570Z",
+            "fileName": "g:\\My Information\\My Websites\\hedgetech.ir\\www\\landing\\service--investors-by-hedge-tech.html",
+            "fileType": ".html",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "landing",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "html"
           }
         ]
