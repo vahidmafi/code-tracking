@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 323253                                          |
-| **Lines Removed** (➖) | 54333                                        |
-| **Net Change** (↕)    | 268920                |
-| **Active Time** (⌚)   | 1860 minutes |
+| **Lines Added** (➕)   | 355650                                          |
+| **Lines Removed** (➖) | 54582                                        |
+| **Net Change** (↕)    | 301068                |
+| **Active Time** (⌚)   | 1932 minutes |
 
 
 ## Modified Files
@@ -309,7 +309,7 @@
 - **profile-details-mehrdad-mohammadi.html** (+576, -143)
 - **profile-details-ramtin-rafatnezhad.html** (+649, -202)
 - **services.html** (+358, -221)
-- **candidate.html** (+690, -0)
+- **candidate.html** (+690, -118)
 - **countries-france.html** (+548, -50)
 - **modal-bank-accounts.html** (+58, -0)
 - **countries-uk.html** (+494, -0)
@@ -530,6 +530,41 @@
 - **profile-details-saba-shahali.html** (+714, -0)
 - **profile-details-shaghayegh-ghafari.html** (+712, -0)
 - **profile-details-pedram-daee.html** (+717, -0)
+- **header.html** (+86, -28)
+- **profile-details-aida-rokni.html** (+693, -0)
+- **profile-details-sara-rahbaran.html** (+691, -0)
+- **profile-details-nilofar-adel.html** (+711, -0)
+- **profile-details-mahshid-fallah.html** (+709, -0)
+- **profile-details-naghmeh-akhavan.html** (+738, -0)
+- **profile-details-mehrdad-mohammadi.html** (+693, -0)
+- **profile-details-mahsa-yosefi.html** (+692, -0)
+- **profile-details-fariba-ghaffari.html** (+713, -0)
+- **profile-details-nasim-ebadi.html** (+710, -0)
+- **profile-details-parisa-karbalari.html** (+701, -0)
+- **profile-details-marzieh-oveysi.html** (+709, -0)
+- **profile-details-mehdi-akhbari.html** (+706, -0)
+- **profile-details-saeideh-taheri.html** (+711, -0)
+- **profile-details-fatemeh-sadeghi.html** (+712, -0)
+- **profile-details-ali-fereydooni.html** (+695, -0)
+- **profile-details-tahereh-mohammadi.html** (+708, -0)
+- **profile-details-alireza-tavakoli.html** (+706, -0)
+- **profile-details-amirhossein-sheikhi.html** (+680, -0)
+- **profile-details-reyhaneh-pourasgari.html** (+689, -0)
+- **profile-details-baharehe-soleimanpour.html** (+726, -0)
+- **profile-details-pegah-nabipour.html** (+709, -0)
+- **profile-details-ali-darrudi.html** (+721, -0)
+- **profile-details-ali-esmaeili.html** (+524, -51)
+- **profile-details-alireza-lashkari.html** (+481, -0)
+- **profile-details-mehran-rezvani.html** (+481, -0)
+- **profile-details-roja-talebi.html** (+481, -0)
+- **profile-details-nazanin-shahrezaei.html** (+481, -0)
+- **profile-details-dina-sedigh.html** (+471, -0)
+- **profile-details-pouria-zarrin.html** (+472, -0)
+- **profile-details-hossein-etezadi.html** (+471, -0)
+- **profile-details-danial-dashti.html** (+471, -0)
+- **profile-details-ali-karimi.html** (+733, -0)
+- **profile-details-faranak-heydari.html** (+703, -0)
+- **index.html** (+11019, -52)
 
 ## Visualizations
 
@@ -538,7 +573,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".html" : 375593
+".html" : 408239
 ".json" : 52
 ".js" : 805
 ".bak" : 1136
@@ -551,8 +586,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "12h" : 16
 "13h" : 674
-"14h" : 443
+"14h" : 491
 ```
 
 
-> **Last Updated:** 9/16/2025, 2:52:31 PM
+> **Last Updated:** 9/16/2025, 2:57:31 PM
