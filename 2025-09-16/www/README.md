@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 46792                                          |
-| **Lines Removed** (➖) | 4214                                        |
-| **Net Change** (↕)    | 42578                |
-| **Active Time** (⌚)   | 145 minutes |
+| **Lines Added** (➕)   | 63374                                          |
+| **Lines Removed** (➖) | 6199                                        |
+| **Net Change** (↕)    | 57175                |
+| **Active Time** (⌚)   | 206 minutes |
 
 
 ## Modified Files
@@ -76,7 +76,37 @@
 - **profile-details-Amirmohammad-sheikhasadi.html** (+561, -65)
 - **profile-details-arad-soutekeshan.html** (+559, -65)
 - **profile-details-aref-vakil.html** (+569, -65)
-- **profile-details-arefeh-alaei.html** (+558, -0)
+- **profile-details-arefeh-alaei.html** (+558, -65)
+- **profile-details-arefeh-ebadati.html** (+556, -65)
+- **profile-details-arian-chalay.html** (+551, -65)
+- **profile-details-arian-mojaabi.html** (+567, -65)
+- **profile-details-arman-farahat.html** (+558, -65)
+- **profile-details-armin-hasanirad.html** (+548, -65)
+- **profile-details-arsalan-ahmadi.html** (+550, -65)
+- **profile-details-atekeh-ebrahimi.html** (+539, -65)
+- **profile-details-aylin-jamali.html** (+550, -65)
+- **profile-details-Bahare-amoly.html** (+549, -65)
+- **profile-details-baharehe-soleimanpour.html** (+563, -59)
+- **profile-details-behzad-khajehe.html** (+550, -65)
+- **profile-details-bita-homayounimehr.html** (+552, -65)
+- **profile-details-danial-amari.html** (+550, -65)
+- **profile-details-danial-dashti.html** (+541, -59)
+- **profile-details-darian-ghorbanian.html** (+560, -65)
+- **profile-details-dina-sedigh.html** (+540, -59)
+- **profile-details-ehsan-ghafari.html** (+559, -65)
+- **profile-details-ehsan-hosseini.html** (+560, -65)
+- **profile-details-ehsan-mohsenitalab.html** (+550, -65)
+- **profile-details-ehsan-sabzizade.html** (+570, -65)
+- **profile-details-elahe-esfandi.html** (+560, -65)
+- **profile-details-elahe-mohammadi.html** (+556, -65)
+- **profile-details-elaheh-memari.html** (+548, -65)
+- **profile-details-elham-rahmani.html** (+558, -65)
+- **profile-details-emad-farjami.html** (+558, -65)
+- **profile-details-faezeh-faghi.html** (+549, -65)
+- **profile-details-fahimeh-fotouhi.html** (+550, -65)
+- **profile-details-farahnaz-ghanbari.html** (+549, -65)
+- **profile-details-faranak-heydari.html** (+539, -59)
+- **profile-details-fariba-ghaffari.html** (+552, -59)
 
 ## Visualizations
 
@@ -85,7 +115,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".html" : 50180
+".html" : 68747
 ".json" : 52
 ".js" : 774
 ```
@@ -96,8 +126,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "12h" : 16
-"13h" : 127
+"13h" : 188
 ```
 
 
-> **Last Updated:** 9/16/2025, 1:42:31 PM
+> **Last Updated:** 9/16/2025, 1:47:31 PM
