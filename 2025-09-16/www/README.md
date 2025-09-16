@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 166000                                          |
-| **Lines Removed** (➖) | 53023                                        |
-| **Net Change** (↕)    | 112977                |
-| **Active Time** (⌚)   | 1264 minutes |
+| **Lines Removed** (➖) | 54117                                        |
+| **Net Change** (↕)    | 111883                |
+| **Active Time** (⌚)   | 1273 minutes |
 
 
 ## Modified Files
@@ -17,19 +17,19 @@
 - **custom.fa.js** (+774, -0)
 - **footer.html** (+243, -61)
 - **candidate.html** (+603, -250)
-- **countries-Australia.html** (+811, -65)
+- **countries-Australia.html** (+811, -219)
 - **countries-france.html** (+563, -222)
 - **countries-germany.html** (+732, -219)
 - **countries-italy.html** (+582, -221)
-- **countries-malaysia.html** (+675, -65)
+- **countries-malaysia.html** (+675, -219)
 - **countries-netherlands.html** (+624, -213)
 - **countries-spain.html** (+626, -213)
-- **countries-turkey.html** (+562, -65)
-- **countries-uk.html** (+561, -65)
-- **countries-usa.html** (+684, -65)
+- **countries-turkey.html** (+562, -221)
+- **countries-uk.html** (+561, -219)
+- **countries-usa.html** (+684, -219)
 - **countries.html** (+551, -221)
-- **eanjoman.html** (+405, -65)
-- **enamad.html** (+417, -65)
+- **eanjoman.html** (+405, -226)
+- **enamad.html** (+417, -226)
 - **events-AI Webinar1.html** (+486, -221)
 - **events-details-1.html** (+490, -221)
 - **events-economics-2025.html** (+497, -221)
@@ -319,7 +319,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".html" : 217546
+".html" : 218640
 ".json" : 52
 ".js" : 774
 ".bak" : 651
@@ -332,8 +332,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "12h" : 16
 "13h" : 674
-"14h" : 33
+"14h" : 40
 ```
 
 
-> **Last Updated:** 9/16/2025, 2:17:31 PM
+> **Last Updated:** 9/16/2025, 2:22:31 PM
