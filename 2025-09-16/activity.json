@@ -231,9 +231,9 @@
       "averageChangeSize": 277.8333333333333
     },
     "www": {
-      "totalLinesAdded": 166000,
-      "totalLinesRemoved": 54117,
-      "totalActiveTime": 1273,
+      "totalLinesAdded": 166015,
+      "totalLinesRemoved": 54132,
+      "totalActiveTime": 1275,
       "files": {
         "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\index.html": [
           {
@@ -408,6 +408,48 @@
               "removed": []
             },
             "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-16T13:27:59.653Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\assets\\js\\custom.fa.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 15,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-16T13:28:30.162Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\assets\\js\\custom.fa.js",
+            "fileType": ".js",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-16T13:29:10.459Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\assets\\js\\custom.fa.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ],
