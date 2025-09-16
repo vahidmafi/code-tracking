@@ -231,9 +231,9 @@
       "averageChangeSize": 277.8333333333333
     },
     "www": {
-      "totalLinesAdded": 11169,
-      "totalLinesRemoved": 73,
-      "totalActiveTime": 4,
+      "totalLinesAdded": 11223,
+      "totalLinesRemoved": 85,
+      "totalActiveTime": 9,
       "files": {
         "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\index.html": [
           {
@@ -277,6 +277,20 @@
             },
             "duration": 1,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T11:14:20.232Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\index.html",
+            "fileType": ".html",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ],
         "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\header.html": [
@@ -307,6 +321,50 @@
             },
             "duration": 1,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T11:13:41.375Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\header.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T11:14:15.900Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\header.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "c:\\Users\\asus\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-09-16T11:12:43.810Z",
+            "fileName": "c:\\Users\\asus\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 52,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
           }
         ]
       },
