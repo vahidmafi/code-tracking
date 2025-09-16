@@ -231,9 +231,9 @@
       "averageChangeSize": 277.8333333333333
     },
     "www": {
-      "totalLinesAdded": 12240,
-      "totalLinesRemoved": 301,
-      "totalActiveTime": 18,
+      "totalLinesAdded": 26010,
+      "totalLinesRemoved": 1783,
+      "totalActiveTime": 64,
       "files": {
         "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\index.html": [
           {
@@ -460,6 +460,710 @@
             "fileType": ".html",
             "linesAdded": 22,
             "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\candidate.html": [
+          {
+            "timestamp": "2025-09-16T12:27:47.979Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\candidate.html",
+            "fileType": ".html",
+            "linesAdded": 603,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T12:27:58.922Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\candidate.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 63,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries-Australia.html": [
+          {
+            "timestamp": "2025-09-16T12:28:22.490Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries-Australia.html",
+            "fileType": ".html",
+            "linesAdded": 811,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T12:28:23.297Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries-Australia.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 65,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries-france.html": [
+          {
+            "timestamp": "2025-09-16T12:28:37.228Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries-france.html",
+            "fileType": ".html",
+            "linesAdded": 563,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T12:28:37.986Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries-france.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 66,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries-germany.html": [
+          {
+            "timestamp": "2025-09-16T12:28:46.539Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries-germany.html",
+            "fileType": ".html",
+            "linesAdded": 732,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T12:28:47.263Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries-germany.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 65,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries-italy.html": [
+          {
+            "timestamp": "2025-09-16T12:29:06.315Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries-italy.html",
+            "fileType": ".html",
+            "linesAdded": 582,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T12:29:07.439Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries-italy.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 65,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries-malaysia.html": [
+          {
+            "timestamp": "2025-09-16T12:29:17.825Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries-malaysia.html",
+            "fileType": ".html",
+            "linesAdded": 675,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T12:29:18.374Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries-malaysia.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 65,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries-netherlands.html": [
+          {
+            "timestamp": "2025-09-16T12:29:37.480Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries-netherlands.html",
+            "fileType": ".html",
+            "linesAdded": 624,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T12:29:38.313Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries-netherlands.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 59,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries-spain.html": [
+          {
+            "timestamp": "2025-09-16T12:29:49.101Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries-spain.html",
+            "fileType": ".html",
+            "linesAdded": 626,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T12:29:49.665Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries-spain.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 59,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries-turkey.html": [
+          {
+            "timestamp": "2025-09-16T12:29:57.878Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries-turkey.html",
+            "fileType": ".html",
+            "linesAdded": 562,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T12:29:58.451Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries-turkey.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 65,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries-uk.html": [
+          {
+            "timestamp": "2025-09-16T12:30:05.348Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries-uk.html",
+            "fileType": ".html",
+            "linesAdded": 561,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T12:30:05.816Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries-uk.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 65,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries-usa.html": [
+          {
+            "timestamp": "2025-09-16T12:30:14.005Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries-usa.html",
+            "fileType": ".html",
+            "linesAdded": 684,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T12:30:14.468Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries-usa.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 65,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries.html": [
+          {
+            "timestamp": "2025-09-16T12:30:21.659Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries.html",
+            "fileType": ".html",
+            "linesAdded": 551,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T12:30:22.176Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\countries.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 65,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\eanjoman.html": [
+          {
+            "timestamp": "2025-09-16T12:30:31.013Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\eanjoman.html",
+            "fileType": ".html",
+            "linesAdded": 405,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T12:30:31.573Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\eanjoman.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 65,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\enamad.html": [
+          {
+            "timestamp": "2025-09-16T12:30:39.805Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\enamad.html",
+            "fileType": ".html",
+            "linesAdded": 417,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T12:30:40.295Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\enamad.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 65,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\events-AI Webinar1.html": [
+          {
+            "timestamp": "2025-09-16T12:30:48.174Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\events-AI Webinar1.html",
+            "fileType": ".html",
+            "linesAdded": 486,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T12:30:48.659Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\events-AI Webinar1.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 65,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\events-details-1.html": [
+          {
+            "timestamp": "2025-09-16T12:31:04.357Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\events-details-1.html",
+            "fileType": ".html",
+            "linesAdded": 490,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T12:31:05.336Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\events-details-1.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 65,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\events-economics-2025.html": [
+          {
+            "timestamp": "2025-09-16T12:31:12.933Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\events-economics-2025.html",
+            "fileType": ".html",
+            "linesAdded": 497,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T12:31:15.363Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\events-economics-2025.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 65,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\events-electrical-2025.html": [
+          {
+            "timestamp": "2025-09-16T12:31:23.191Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\events-electrical-2025.html",
+            "fileType": ".html",
+            "linesAdded": 725,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T12:31:23.687Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\events-electrical-2025.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 66,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T12:31:25.090Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\events-electrical-2025.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\events-Finance-2025.html": [
+          {
+            "timestamp": "2025-09-16T12:31:35.712Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\events-Finance-2025.html",
+            "fileType": ".html",
+            "linesAdded": 638,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T12:31:36.262Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\events-Finance-2025.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 65,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\events-lifescience-2025.html": [
+          {
+            "timestamp": "2025-09-16T12:31:45.429Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\events-lifescience-2025.html",
+            "fileType": ".html",
+            "linesAdded": 714,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T12:31:54.621Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\events-lifescience-2025.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 65,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\events-mechanic-2025.html": [
+          {
+            "timestamp": "2025-09-16T12:32:01.806Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\events-mechanic-2025.html",
+            "fileType": ".html",
+            "linesAdded": 743,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T12:32:03.021Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\events-mechanic-2025.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 65,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\events.html": [
+          {
+            "timestamp": "2025-09-16T12:32:11.489Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\events.html",
+            "fileType": ".html",
+            "linesAdded": 501,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T12:32:12.660Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\events.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 64,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\mentoring-mechanic-engineering.html": [
+          {
+            "timestamp": "2025-09-16T12:32:25.058Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\mentoring-mechanic-engineering.html",
+            "fileType": ".html",
+            "linesAdded": 579,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T12:32:25.720Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\mentoring-mechanic-engineering.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 65,
             "projectName": "www",
             "content": {
               "added": [],
