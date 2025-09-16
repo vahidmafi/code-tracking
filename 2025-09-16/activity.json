@@ -231,9 +231,9 @@
       "averageChangeSize": 277.8333333333333
     },
     "www": {
-      "totalLinesAdded": 364815,
-      "totalLinesRemoved": 55457,
-      "totalActiveTime": 1958,
+      "totalLinesAdded": 364978,
+      "totalLinesRemoved": 57503,
+      "totalActiveTime": 1975,
       "files": {
         "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\index.html": [
           {
@@ -13643,6 +13643,20 @@
             },
             "duration": 4,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T14:09:50.963Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\en\\countries-france.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 150,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ],
         "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\modal-bank-accounts.html": [
@@ -13675,6 +13689,20 @@
             },
             "duration": 4,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T14:11:04.848Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\en\\countries-uk.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 150,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ],
         "g:\\My Information\\My Websites\\_ehsan\\www\\en\\countries-germany.html": [
@@ -13690,6 +13718,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T14:11:04.783Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\en\\countries-germany.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 150,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "html"
           }
         ],
@@ -13707,6 +13749,20 @@
             },
             "duration": 4,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T14:11:04.826Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\en\\countries-italy.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 150,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ],
         "g:\\My Information\\My Websites\\_ehsan\\www\\en\\countries-usa.html": [
@@ -13723,6 +13779,20 @@
             },
             "duration": 4,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T14:11:04.811Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\en\\countries-usa.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 150,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ],
         "g:\\My Information\\My Websites\\_ehsan\\www\\en\\countries.html": [
@@ -13738,6 +13808,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T14:11:04.916Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\en\\countries.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 150,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "html"
           }
         ],
@@ -17875,6 +17959,20 @@
             },
             "duration": 1,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T14:08:57.284Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\en\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 150,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ],
         "g:\\My Information\\My Websites\\_ehsan\\www\\en\\order-success.html": [
@@ -17904,6 +18002,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T14:12:08.073Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\en\\order-success.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 249,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "html"
           }
         ],
@@ -18025,6 +18137,20 @@
             },
             "duration": 1,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T14:12:07.957Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\en\\profile-details-hanieh-gerani.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 249,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
           }
         ],
         "g:\\My Information\\My Websites\\_ehsan\\www\\en\\profile-details-katayon-arabzadeh.html": [
@@ -18115,6 +18241,20 @@
             },
             "duration": 1,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T14:12:07.988Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\en\\profile-details-saeed-arabloo.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 249,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
           }
         ],
         "g:\\My Information\\My Websites\\_ehsan\\www\\en\\profile-details-saman-arastan.html": [
@@ -18144,6 +18284,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T14:12:08.035Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\en\\profile-details-saman-arastan.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 249,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "html"
           }
         ],
@@ -18265,6 +18419,36 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\en\\footer.html": [
+          {
+            "timestamp": "2025-09-16T14:08:25.411Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\en\\footer.html",
+            "fileType": ".html",
+            "linesAdded": 154,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T14:10:53.343Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\en\\footer.html",
+            "fileType": ".html",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
           }
         ]
       },
