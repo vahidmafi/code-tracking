@@ -232,8 +232,8 @@
     },
     "www": {
       "totalLinesAdded": 166000,
-      "totalLinesRemoved": 50056,
-      "totalActiveTime": 1228,
+      "totalLinesRemoved": 51819,
+      "totalActiveTime": 1246,
       "files": {
         "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\index.html": [
           {
@@ -2627,6 +2627,20 @@
             },
             "duration": 1,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T13:05:36.227Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-alireza-tavakoli.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 143,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ],
         "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-amin-fathi.html": [
@@ -4938,6 +4952,20 @@
             "fileType": ".html",
             "linesAdded": 0,
             "linesRemoved": 65,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T13:04:28.156Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-hadiseh-eslamian.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 152,
             "projectName": "www",
             "content": {
               "added": [],
@@ -9233,6 +9261,20 @@
             },
             "duration": 1,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T13:03:52.447Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-saman-jafari1.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 150,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ],
         "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-shaghayegh-ghafari.html": [
@@ -9769,6 +9811,20 @@
             },
             "duration": 1,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T13:05:35.535Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-mehrab-beikzadeh.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 143,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
           }
         ],
         "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-roja-talebi.html": [
@@ -9977,6 +10033,20 @@
             },
             "duration": 1,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T13:05:35.491Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-mehdi-akhbari.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 143,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
           }
         ],
         "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-marzieh-oveysi.html": [
@@ -9992,6 +10062,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T13:05:35.439Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-marzieh-oveysi.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 143,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "html"
           }
         ],
@@ -10159,6 +10243,20 @@
             },
             "duration": 2,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T13:04:28.168Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-sahand-rejali.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 152,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ],
         "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-kimia-ghazanfari.html": [
@@ -10174,6 +10272,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T13:04:28.218Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-kimia-ghazanfari.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 152,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "html"
           }
         ],
@@ -10206,6 +10318,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T13:03:19.150Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-sara-shahali.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 156,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "html"
           }
         ],
@@ -10322,6 +10448,20 @@
             "fileType": ".html",
             "linesAdded": 0,
             "linesRemoved": 58,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T13:05:36.217Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-mani-bayani.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 143,
             "projectName": "www",
             "content": {
               "added": [],
@@ -10555,6 +10695,20 @@
             },
             "duration": 2,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T13:05:35.557Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-mehrdad-mohammadi.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 143,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
           }
         ],
         "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-ramtin-rafatnezhad.html": [
@@ -10598,6 +10752,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-16T13:05:35.424Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\profile-details-ramtin-rafatnezhad.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 143,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "html"
           }
         ],
