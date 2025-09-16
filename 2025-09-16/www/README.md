@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 186450                                          |
-| **Lines Removed** (➖) | 54132                                        |
-| **Net Change** (↕)    | 132318                |
-| **Active Time** (⌚)   | 1463 minutes |
+| **Lines Added** (➕)   | 226099                                          |
+| **Lines Removed** (➖) | 54182                                        |
+| **Net Change** (↕)    | 171917                |
+| **Active Time** (⌚)   | 1718 minutes |
 
 
 ## Modified Files
@@ -310,8 +310,90 @@
 - **profile-details-ramtin-rafatnezhad.html** (+649, -202)
 - **services.html** (+358, -221)
 - **candidate.html** (+690, -0)
-- **countries-france.html** (+548, -0)
+- **countries-france.html** (+548, -50)
 - **modal-bank-accounts.html** (+58, -0)
+- **countries-uk.html** (+494, -0)
+- **countries-germany.html** (+731, -0)
+- **countries-italy.html** (+559, -0)
+- **countries-usa.html** (+704, -0)
+- **countries.html** (+372, -0)
+- **profile-details-sahar-pourmohammadi.html** (+475, -0)
+- **profile-details-Abbas-arabi.html** (+452, -0)
+- **profile-details-atekeh-ebrahimi.html** (+472, -0)
+- **profile-details-reza-radpour.html** (+464, -0)
+- **profile-details-navid-rasekh.html** (+485, -0)
+- **profile-details-zahra-samimi.html** (+476, -0)
+- **profile-details-niloofar-ghalandari.html** (+474, -0)
+- **profile-details-elaheh-memari.html** (+474, -0)
+- **profile-details-armin-hasanirad.html** (+474, -0)
+- **profile-details-sahand-rejali.html** (+476, -0)
+- **profile-details-nastaran-soleimani.html.bak** (+485, -0)
+- **profile-details-mobin-jabbarzadeh.html** (+473, -0)
+- **profile-details-kiarash-ebrahimi.html** (+476, -0)
+- **profile-details-mahsa-ordibehesht.html** (+474, -0)
+- **profile-details-farzin-banakheiri.html** (+489, -0)
+- **profile-details-moein-taherkhani.html** (+477, -0)
+- **profile-details-nima-mahmoudi.html** (+483, -0)
+- **profile-details-danial-amari.html** (+474, -0)
+- **profile-details-amirali-naeimi.html** (+475, -0)
+- **profile-details-payam-baharlou.html** (+475, -0)
+- **profile-details-ali-tabesh.html** (+475, -0)
+- **profile-details-ghazal-hasani.html** (+474, -0)
+- **profile-details-arefeh-alaei.html** (+484, -0)
+- **profile-details-kimia-ghazanfari.html** (+474, -0)
+- **profile-details-hana-saadat.html** (+463, -0)
+- **profile-details-mehraneh-salimi.html** (+475, -0)
+- **profile-details-mehraneh-seyedan.html** (+465, -0)
+- **profile-details-matin-zarei.html** (+475, -0)
+- **profile-details-mohammad-maarefi.html** (+485, -0)
+- **profile-details-mohammadmahdi-tajiki.html** (+501, -0)
+- **profile-details-mohammdmehdi-balouchi.html** (+474, -0)
+- **profile-details-mona-nikkhah.html** (+478, -0)
+- **profile-details-mohsen-shahverdi.html** (+479, -0)
+- **profile-details-mohammadreza-forotan.html** (+465, -0)
+- **profile-details-niloofar-kargar.html** (+485, -0)
+- **profile-details-parastoo-jafari.html** (+485, -0)
+- **profile-details-niloofar-sabzehparvar.html** (+477, -0)
+- **profile-details-parisa-zaynali.html** (+476, -0)
+- **profile-details-nasim-sarhadi.html** (+485, -0)
+- **profile-details-mahsa-razavi.html** (+474, -0)
+- **profile-details-hojat-naderzadeh.html** (+464, -0)
+- **profile-details-maryam-mousavi.html** (+476, -0)
+- **profile-details-maryam-taheri.html** (+476, -0)
+- **profile-details-alireza-mosavian.html** (+485, -0)
+- **profile-details-arian-mojaabi.html** (+493, -0)
+- **profile-details-ehsan-hosseini.html** (+486, -0)
+- **profile-details-ehsan-mohsenitalab.html** (+474, -0)
+- **profile-details-behzad-khajehe.html** (+474, -0)
+- **profile-details-emad-farjami.html** (+488, -0)
+- **profile-details-negar-foulad.html** (+477, -0)
+- **profile-details-mahya-eslami.html** (+474, -0)
+- **profile-details-farahnaz-ghanbari.html** (+476, -0)
+- **profile-details-fahimeh-fotouhi.html** (+474, -0)
+- **profile-details-Bahare-amoly.html** (+474, -0)
+- **profile-details-zahra-sobhkhiz.html** (+485, -0)
+- **profile-details-Sadaf-khalatbari.html** (+474, -0)
+- **profile-details-ahmad-bozorgi.html** (+479, -0)
+- **profile-details-ahmadreza-nazif.html** (+477, -0)
+- **profile-details-alireza-mohammadidost.html** (+483, -0)
+- **profile-details-arad-soutekeshan.html** (+486, -0)
+- **profile-details-alireza-malekmohammadi.html** (+486, -0)
+- **profile-details-amin-shamseddini.html** (+464, -0)
+- **profile-details-samad-khani.html** (+483, -0)
+- **profile-details-yeganeh-hoseini.html** (+484, -0)
+- **profile-details-zahra-faham.html** (+482, -0)
+- **profile-details-zahra-shams.html** (+483, -0)
+- **profile-details-zahra-safari.html** (+464, -0)
+- **profile-details-zahra-fallah.html** (+486, -0)
+- **profile-details-shahin-sabeti.html** (+484, -0)
+- **profile-details-shakiba-mashini.html** (+474, -0)
+- **profile-details-saman-jafari1.html** (+482, -0)
+- **profile-details-sobhan-sabzizade.html** (+494, -0)
+- **profile-details-tarokh-shariat.html** (+477, -0)
+- **profile-details-raha-mousavi.html** (+475, -0)
+- **profile-details-saba-najjar.html** (+484, -0)
+- **profile-details-sajjad-ahmadi.html** (+477, -0)
+- **profile-details-reza-najafi.html** (+483, -0)
 
 ## Visualizations
 
@@ -320,10 +402,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".html" : 239074
+".html" : 278288
 ".json" : 52
 ".js" : 805
-".bak" : 651
+".bak" : 1136
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -333,8 +415,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "12h" : 16
 "13h" : 674
-"14h" : 222
+"14h" : 305
 ```
 
 
-> **Last Updated:** 9/16/2025, 2:42:31 PM
+> **Last Updated:** 9/16/2025, 2:47:31 PM
