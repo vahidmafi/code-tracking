@@ -1,0 +1,80 @@
+{
+  "date": "2025-09-20",
+  "projects": {
+    "www": {
+      "totalLinesAdded": 935,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\modal-user-inactivity.html": [
+          {
+            "timestamp": "2025-09-20T05:27:11.202Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\modal-user-inactivity.html",
+            "fileType": ".html",
+            "linesAdded": 117,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-20T05:27:58.248Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\modal-user-inactivity.html",
+            "fileType": ".html",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "g:\\My Information\\My Websites\\_ehsan\\www\\assets\\js\\custom.fa.js": [
+          {
+            "timestamp": "2025-09-20T05:28:14.371Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\assets\\js\\custom.fa.js",
+            "fileType": ".js",
+            "linesAdded": 811,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 1,
+        "js": 1
+      },
+      "changeFrequency": {
+        "6": 2
+      },
+      "topFiles": [
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\modal-user-inactivity.html",
+        "g:\\My Information\\My Websites\\_ehsan\\www\\assets\\js\\custom.fa.js"
+      ],
+      "averageChangeSize": 311.6666666666667
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    6
+  ],
+  "mostUsedLanguages": [
+    "html",
+    "js"
+  ]
+}
