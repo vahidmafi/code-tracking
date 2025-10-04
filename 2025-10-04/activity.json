@@ -3,7 +3,7 @@
   "projects": {
     "shop": {
       "totalLinesAdded": 18290,
-      "totalLinesRemoved": 34,
+      "totalLinesRemoved": 35,
       "totalActiveTime": 131,
       "files": {
         "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\gateway.inc.php": [
@@ -1265,6 +1265,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-04T12:29:52.896Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\v4\\header.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "php"
           }
         ]
