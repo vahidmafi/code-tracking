@@ -2,9 +2,9 @@
   "date": "2025-10-04",
   "projects": {
     "shop": {
-      "totalLinesAdded": 880,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 1,
+      "totalLinesAdded": 889,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 3,
       "files": {
         "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\gateway.inc.php": [
           {
@@ -41,6 +41,48 @@
             "fileType": ".php",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-04T06:16:41.110Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\gateway.inc.php",
+            "fileType": ".php",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-04T06:17:37.497Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\gateway.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-04T06:17:58.622Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\gateway.inc.php",
+            "fileType": ".php",
+            "linesAdded": 3,
+            "linesRemoved": 0,
             "projectName": "shop",
             "content": {
               "added": [],
