@@ -2,9 +2,9 @@
   "date": "2025-10-04",
   "projects": {
     "shop": {
-      "totalLinesAdded": 1453,
+      "totalLinesAdded": 1462,
       "totalLinesRemoved": 17,
-      "totalActiveTime": 36,
+      "totalActiveTime": 42,
       "files": {
         "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\gateway.inc.php": [
           {
@@ -375,6 +375,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-04T07:09:59.151Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\gateway\\Saman\\availability.inc.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-04T07:12:08.871Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\gateway\\Saman\\availability.inc.php",
+            "fileType": ".php",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "php"
           }
         ],
