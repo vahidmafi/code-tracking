@@ -2,9 +2,9 @@
   "date": "2025-10-04",
   "projects": {
     "shop": {
-      "totalLinesAdded": 1462,
+      "totalLinesAdded": 1993,
       "totalLinesRemoved": 17,
-      "totalActiveTime": 42,
+      "totalActiveTime": 45,
       "files": {
         "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\gateway.inc.php": [
           {
@@ -461,6 +461,38 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\gateway\\Print_Order_Form\\availability.inc.php": [
+          {
+            "timestamp": "2025-10-04T07:20:11.253Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\gateway\\Print_Order_Form\\availability.inc.php",
+            "fileType": ".php",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\modules\\gateway\\Print_Order_Form\\index.php": [
+          {
+            "timestamp": "2025-10-04T07:22:21.401Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\modules\\gateway\\Print_Order_Form\\index.php",
+            "fileType": ".php",
+            "linesAdded": 515,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "php"
           }
         ]
