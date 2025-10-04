@@ -2,9 +2,9 @@
   "date": "2025-10-04",
   "projects": {
     "shop": {
-      "totalLinesAdded": 889,
+      "totalLinesAdded": 1419,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 3,
+      "totalActiveTime": 8,
       "files": {
         "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\gateway.inc.php": [
           {
@@ -82,6 +82,80 @@
             "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\gateway.inc.php",
             "fileType": ".php",
             "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-04T06:18:32.803Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\gateway.inc.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\gateway\\Saman\\transfer.inc.php": [
+          {
+            "timestamp": "2025-10-04T06:19:14.067Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\gateway\\Saman\\transfer.inc.php",
+            "fileType": ".php",
+            "linesAdded": 323,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-04T06:19:26.963Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\gateway\\Saman\\transfer.inc.php",
+            "fileType": ".php",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\gateway\\Bank\\transfer.inc.php": [
+          {
+            "timestamp": "2025-10-04T06:20:14.879Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\gateway\\Bank\\transfer.inc.php",
+            "fileType": ".php",
+            "linesAdded": 198,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-04T06:20:19.045Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\gateway\\Bank\\transfer.inc.php",
+            "fileType": ".php",
+            "linesAdded": 4,
             "linesRemoved": 0,
             "projectName": "shop",
             "content": {
