@@ -1,0 +1,97 @@
+{
+  "date": "2025-11-08",
+  "projects": {
+    "ht-web-app-1.network.hedgetech.ir": {
+      "totalLinesAdded": 140,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "g:\\My Information\\My Websites\\hedgetech\\ht-web-app-1.network.hedgetech.ir\\nginx.conf": [
+          {
+            "timestamp": "2025-11-08T08:41:10.988Z",
+            "fileName": "g:\\My Information\\My Websites\\hedgetech\\ht-web-app-1.network.hedgetech.ir\\nginx.conf",
+            "fileType": ".conf",
+            "linesAdded": 73,
+            "linesRemoved": 0,
+            "projectName": "ht-web-app-1.network.hedgetech.ir",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "conf"
+          },
+          {
+            "timestamp": "2025-11-08T08:42:08.356Z",
+            "fileName": "g:\\My Information\\My Websites\\hedgetech\\ht-web-app-1.network.hedgetech.ir\\nginx.conf",
+            "fileType": ".conf",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "ht-web-app-1.network.hedgetech.ir",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "conf"
+          }
+        ],
+        "g:\\My Information\\My Websites\\hedgetech\\ht-web-app-1.network.hedgetech.ir\\.env": [
+          {
+            "timestamp": "2025-11-08T08:42:44.915Z",
+            "fileName": "g:\\My Information\\My Websites\\hedgetech\\ht-web-app-1.network.hedgetech.ir\\.env",
+            "fileType": "unknown",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "ht-web-app-1.network.hedgetech.ir",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ],
+        "g:\\My Information\\My Websites\\hedgetech\\ht-web-app-1.network.hedgetech.ir\\store_conf\\php-fpm.conf": [
+          {
+            "timestamp": "2025-11-08T08:43:41.653Z",
+            "fileName": "g:\\My Information\\My Websites\\hedgetech\\ht-web-app-1.network.hedgetech.ir\\store_conf\\php-fpm.conf",
+            "fileType": ".conf",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "ht-web-app-1.network.hedgetech.ir",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "conf"
+          }
+        ]
+      },
+      "languageStats": {
+        "conf": 2,
+        "unknown": 1
+      },
+      "changeFrequency": {
+        "8": 3
+      },
+      "topFiles": [
+        "g:\\My Information\\My Websites\\hedgetech\\ht-web-app-1.network.hedgetech.ir\\nginx.conf",
+        "g:\\My Information\\My Websites\\hedgetech\\ht-web-app-1.network.hedgetech.ir\\.env",
+        "g:\\My Information\\My Websites\\hedgetech\\ht-web-app-1.network.hedgetech.ir\\store_conf\\php-fpm.conf"
+      ],
+      "averageChangeSize": 35
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    8
+  ],
+  "mostUsedLanguages": [
+    "conf",
+    "unknown"
+  ]
+}
