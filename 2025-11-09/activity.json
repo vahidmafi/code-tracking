@@ -2,9 +2,9 @@
   "date": "2025-11-09",
   "projects": {
     "shop": {
-      "totalLinesAdded": 2698,
-      "totalLinesRemoved": 440,
-      "totalActiveTime": 35,
+      "totalLinesAdded": 8559,
+      "totalLinesRemoved": 1574,
+      "totalActiveTime": 116,
       "files": {
         "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\admin\\modules\\affiliate\\JROX\\index.php": [
           {
@@ -537,6 +537,1220 @@
             "fileType": ".php",
             "linesAdded": 77,
             "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:17:29.935Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\boxes\\profile.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 28,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\boxes\\randomProd.inc.php": [
+          {
+            "timestamp": "2025-11-09T06:17:33.723Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\boxes\\randomProd.inc.php",
+            "fileType": ".php",
+            "linesAdded": 88,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:17:34.632Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\boxes\\randomProd.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 28,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\boxes\\searchForm.inc.php": [
+          {
+            "timestamp": "2025-11-09T06:17:38.379Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\boxes\\searchForm.inc.php",
+            "fileType": ".php",
+            "linesAdded": 59,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:17:39.239Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\boxes\\searchForm.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 28,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\boxes\\session.inc.php": [
+          {
+            "timestamp": "2025-11-09T06:17:44.019Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\boxes\\session.inc.php",
+            "fileType": ".php",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:17:44.989Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\boxes\\session.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 28,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\boxes\\shoppingCart.inc.php": [
+          {
+            "timestamp": "2025-11-09T06:17:48.946Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\boxes\\shoppingCart.inc.php",
+            "fileType": ".php",
+            "linesAdded": 258,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:17:50.058Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\boxes\\shoppingCart.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 28,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\account.inc.php": [
+          {
+            "timestamp": "2025-11-09T06:17:57.513Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\account.inc.php",
+            "fileType": ".php",
+            "linesAdded": 65,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:17:58.579Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\account.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 28,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\bank.inc.php": [
+          {
+            "timestamp": "2025-11-09T06:18:05.492Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\bank.inc.php",
+            "fileType": ".php",
+            "linesAdded": 109,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:18:06.901Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\bank.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 28,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\confirmed.inc.php": [
+          {
+            "timestamp": "2025-11-09T06:18:11.571Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\confirmed.inc.php",
+            "fileType": ".php",
+            "linesAdded": 181,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:18:12.597Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\confirmed.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 28,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\dnExpire.inc.php": [
+          {
+            "timestamp": "2025-11-09T06:18:17.386Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\dnExpire.inc.php",
+            "fileType": ".php",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:18:18.534Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\dnExpire.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 28,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\forgotPass.inc.php": [
+          {
+            "timestamp": "2025-11-09T06:18:23.972Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\forgotPass.inc.php",
+            "fileType": ".php",
+            "linesAdded": 135,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:18:24.845Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\forgotPass.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 27,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\gateway.inc.php": [
+          {
+            "timestamp": "2025-11-09T06:18:29.650Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\gateway.inc.php",
+            "fileType": ".php",
+            "linesAdded": 461,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:18:30.497Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\gateway.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 27,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\login.inc.php": [
+          {
+            "timestamp": "2025-11-09T06:18:34.453Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\login.inc.php",
+            "fileType": ".php",
+            "linesAdded": 216,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:18:35.648Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\login.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 28,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\logout.inc.php": [
+          {
+            "timestamp": "2025-11-09T06:18:39.595Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\logout.inc.php",
+            "fileType": ".php",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:18:40.475Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\logout.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 28,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\newsletter.inc.php": [
+          {
+            "timestamp": "2025-11-09T06:18:46.059Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\newsletter.inc.php",
+            "fileType": ".php",
+            "linesAdded": 99,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:18:46.954Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\newsletter.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 28,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\noShip.inc.php": [
+          {
+            "timestamp": "2025-11-09T06:18:50.674Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\noShip.inc.php",
+            "fileType": ".php",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:18:51.941Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\noShip.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 28,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\overWeight.inc.php": [
+          {
+            "timestamp": "2025-11-09T06:18:55.322Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\overWeight.inc.php",
+            "fileType": ".php",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:18:56.369Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\overWeight.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 28,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\reg.inc.php": [
+          {
+            "timestamp": "2025-11-09T06:18:59.826Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\reg.inc.php",
+            "fileType": ".php",
+            "linesAdded": 472,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:19:00.956Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\reg.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 28,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\step1.inc.php": [
+          {
+            "timestamp": "2025-11-09T06:19:06.163Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\step1.inc.php",
+            "fileType": ".php",
+            "linesAdded": 125,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:19:07.080Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\step1.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 27,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\tellafriend.inc.php": [
+          {
+            "timestamp": "2025-11-09T06:19:34.761Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\tellafriend.inc.php",
+            "fileType": ".php",
+            "linesAdded": 153,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:19:36.934Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\tellafriend.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 27,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\unsubscribe.inc.php": [
+          {
+            "timestamp": "2025-11-09T06:19:57.396Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\unsubscribe.inc.php",
+            "fileType": ".php",
+            "linesAdded": 78,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:19:58.358Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\unsubscribe.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 27,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\viewMessage.inc.php": [
+          {
+            "timestamp": "2025-11-09T06:20:03.258Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\viewMessage.inc.php",
+            "fileType": ".php",
+            "linesAdded": 157,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:20:04.174Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\viewMessage.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 27,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\installak\\index.php": [
+          {
+            "timestamp": "2025-11-09T06:20:08.531Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\installak\\index.php",
+            "fileType": ".php",
+            "linesAdded": 780,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:20:09.501Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\installak\\index.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 27,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\affiliate\\clixGalore\\tracker.inc.php": [
+          {
+            "timestamp": "2025-11-09T06:20:14.898Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\affiliate\\clixGalore\\tracker.inc.php",
+            "fileType": ".php",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:20:16.564Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\affiliate\\clixGalore\\tracker.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 27,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\affiliate\\iDevAffiliate\\tracker.inc.php": [
+          {
+            "timestamp": "2025-11-09T06:20:21.394Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\affiliate\\iDevAffiliate\\tracker.inc.php",
+            "fileType": ".php",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:20:22.252Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\affiliate\\iDevAffiliate\\tracker.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 27,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\affiliate\\JROX\\tracker.inc.php": [
+          {
+            "timestamp": "2025-11-09T06:20:25.900Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\affiliate\\JROX\\tracker.inc.php",
+            "fileType": ".php",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:20:26.796Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\affiliate\\JROX\\tracker.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 27,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\affiliate\\tradeDoubler\\tracker.inc.php": [
+          {
+            "timestamp": "2025-11-09T06:20:30.658Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\affiliate\\tradeDoubler\\tracker.inc.php",
+            "fileType": ".php",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:20:31.656Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\affiliate\\tradeDoubler\\tracker.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 27,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\gateway\\Bank\\transfer.inc.php": [
+          {
+            "timestamp": "2025-11-09T06:20:38.402Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\gateway\\Bank\\transfer.inc.php",
+            "fileType": ".php",
+            "linesAdded": 198,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:20:40.043Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\gateway\\Bank\\transfer.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 29,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\gateway\\Paypaad\\transfer.inc.php": [
+          {
+            "timestamp": "2025-11-09T06:20:44.066Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\gateway\\Paypaad\\transfer.inc.php",
+            "fileType": ".php",
+            "linesAdded": 500,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:20:45.010Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\gateway\\Paypaad\\transfer.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 29,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\gateway\\PayPal\\ipn.php": [
+          {
+            "timestamp": "2025-11-09T06:20:49.058Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\gateway\\PayPal\\ipn.php",
+            "fileType": ".php",
+            "linesAdded": 171,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:20:50.334Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\gateway\\PayPal\\ipn.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 29,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\gateway\\PayPal\\transfer.inc.php": [
+          {
+            "timestamp": "2025-11-09T06:20:54.322Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\gateway\\PayPal\\transfer.inc.php",
+            "fileType": ".php",
+            "linesAdded": 205,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:20:55.514Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\gateway\\PayPal\\transfer.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 28,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\gateway\\Pos\\transfer.inc.php": [
+          {
+            "timestamp": "2025-11-09T06:20:59.162Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\gateway\\Pos\\transfer.inc.php",
+            "fileType": ".php",
+            "linesAdded": 138,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:21:00.080Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\gateway\\Pos\\transfer.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 29,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\shipping\\By_Percent\\calc.php": [
+          {
+            "timestamp": "2025-11-09T06:21:05.178Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\shipping\\By_Percent\\calc.php",
+            "fileType": ".php",
+            "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:21:06.142Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\shipping\\By_Percent\\calc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 27,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\shipping\\By_Price\\calc.php": [
+          {
+            "timestamp": "2025-11-09T06:21:10.434Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\shipping\\By_Price\\calc.php",
+            "fileType": ".php",
+            "linesAdded": 67,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:21:11.339Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\shipping\\By_Price\\calc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 27,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\shipping\\By_Weight\\calc.php": [
+          {
+            "timestamp": "2025-11-09T06:21:16.729Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\shipping\\By_Weight\\calc.php",
+            "fileType": ".php",
+            "linesAdded": 165,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:21:18.442Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\shipping\\By_Weight\\calc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 27,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\shipping\\Flat_Rate\\calc.php": [
+          {
+            "timestamp": "2025-11-09T06:21:23.393Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\shipping\\Flat_Rate\\calc.php",
+            "fileType": ".php",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:21:24.192Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\shipping\\Flat_Rate\\calc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 27,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\shipping\\Free_Shipping\\calc.php": [
+          {
+            "timestamp": "2025-11-09T06:21:28.449Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\shipping\\Free_Shipping\\calc.php",
+            "fileType": ".php",
+            "linesAdded": 47,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:21:29.308Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\shipping\\Free_Shipping\\calc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 27,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\shipping\\Per_Category\\calc.php": [
+          {
+            "timestamp": "2025-11-09T06:21:35.050Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\shipping\\Per_Category\\calc.php",
+            "fileType": ".php",
+            "linesAdded": 75,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:21:36.095Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\shipping\\Per_Category\\calc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 27,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\shipping\\Per_Category\\line.inc.php": [
+          {
+            "timestamp": "2025-11-09T06:21:40.361Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\shipping\\Per_Category\\line.inc.php",
+            "fileType": ".php",
+            "linesAdded": 76,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:21:41.495Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\shipping\\Per_Category\\line.inc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 28,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\shipping\\Per_Item\\calc.php": [
+          {
+            "timestamp": "2025-11-09T06:21:48.506Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\shipping\\Per_Item\\calc.php",
+            "fileType": ".php",
+            "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:21:50.165Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\shipping\\Per_Item\\calc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 27,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\shipping\\Royal_Mail\\calc.php": [
+          {
+            "timestamp": "2025-11-09T06:21:55.545Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\shipping\\Royal_Mail\\calc.php",
+            "fileType": ".php",
+            "linesAdded": 99,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:21:56.532Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\shipping\\Royal_Mail\\calc.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 28,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\editconf.php": [
+          {
+            "timestamp": "2025-11-09T06:22:11.530Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\editconf.php",
+            "fileType": ".php",
+            "linesAdded": 123,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-11-09T06:22:12.698Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\editconf.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 28,
             "projectName": "shop",
             "content": {
               "added": [],
