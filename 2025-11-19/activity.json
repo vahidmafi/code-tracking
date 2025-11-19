@@ -1,0 +1,47 @@
+{
+  "date": "2025-11-19",
+  "projects": {
+    "shop": {
+      "totalLinesAdded": 53,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\asus\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-11-19T07:33:02.066Z",
+            "fileName": "c:\\Users\\asus\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 53,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "7": 0
+      },
+      "topFiles": [
+        "c:\\Users\\asus\\AppData\\Roaming\\Code\\User\\settings.json"
+      ],
+      "averageChangeSize": 53
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    7
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
