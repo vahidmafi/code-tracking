@@ -1,0 +1,75 @@
+{
+  "date": "2025-12-10",
+  "projects": {
+    "www": {
+      "totalLinesAdded": 441,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 4,
+      "files": {
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\services-payment-ielts-exam.html": [
+          {
+            "timestamp": "2025-12-10T11:14:13.840Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\services-payment-ielts-exam.html",
+            "fileType": ".html",
+            "linesAdded": 439,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-12-10T11:17:12.977Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\services-payment-ielts-exam.html",
+            "fileType": ".html",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-12-10T11:17:35.986Z",
+            "fileName": "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\services-payment-ielts-exam.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "www",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 4
+      },
+      "changeFrequency": {
+        "11": 4
+      },
+      "topFiles": [
+        "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\services-payment-ielts-exam.html"
+      ],
+      "averageChangeSize": 147.33333333333334
+    }
+  },
+  "totalActiveTime": 4,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "html"
+  ]
+}
