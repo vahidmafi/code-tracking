@@ -61,6 +61,81 @@
         "g:\\My Information\\My Websites\\_ehsan\\www\\fa\\services-payment-ielts-exam.html"
       ],
       "averageChangeSize": 147.33333333333334
+    },
+    "shop": {
+      "totalLinesAdded": 105,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 6,
+      "files": {
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\scripts\\zeytoon\\functions.sources.tgju.org.php": [
+          {
+            "timestamp": "2025-12-10T11:54:25.372Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\scripts\\zeytoon\\functions.sources.tgju.org.php",
+            "fileType": ".php",
+            "linesAdded": 96,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-12-10T11:54:35.963Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\scripts\\zeytoon\\functions.sources.tgju.org.php",
+            "fileType": ".php",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-12-10T11:55:31.555Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\scripts\\zeytoon\\functions.sources.tgju.org.php",
+            "fileType": ".php",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-12-10T11:58:39.454Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\scripts\\zeytoon\\functions.sources.tgju.org.php",
+            "fileType": ".php",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 6
+      },
+      "changeFrequency": {
+        "11": 6
+      },
+      "topFiles": [
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\modules\\scripts\\zeytoon\\functions.sources.tgju.org.php"
+      ],
+      "averageChangeSize": 26.25
     }
   },
   "totalActiveTime": 4,
