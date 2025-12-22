@@ -2,9 +2,9 @@
   "date": "2025-12-22",
   "projects": {
     "shop": {
-      "totalLinesAdded": 119,
+      "totalLinesAdded": 181,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 1,
       "files": {
         "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\global.inc.php": [
           {
@@ -36,6 +36,36 @@
             },
             "duration": 0,
             "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\skins\\wol-leapto\\styleTemplates\\boxes\\siteDocs.tpl": [
+          {
+            "timestamp": "2025-12-22T11:53:20.555Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\skins\\wol-leapto\\styleTemplates\\boxes\\siteDocs.tpl",
+            "fileType": ".tpl",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tpl"
+          },
+          {
+            "timestamp": "2025-12-22T11:54:01.021Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\skins\\wol-leapto\\styleTemplates\\boxes\\siteDocs.tpl",
+            "fileType": ".tpl",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tpl"
           }
         ]
       },
