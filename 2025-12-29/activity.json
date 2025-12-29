@@ -1,0 +1,78 @@
+{
+  "date": "2025-12-29",
+  "projects": {
+    "shop": {
+      "totalLinesAdded": 4940,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\cart.inc.php": [
+          {
+            "timestamp": "2025-12-29T05:27:56.017Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\cart.inc.php",
+            "fileType": ".php",
+            "linesAdded": 881,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\language\\fa\\lang.inc.php": [
+          {
+            "timestamp": "2025-12-29T05:28:46.256Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\language\\fa\\lang.inc.php",
+            "fileType": ".php",
+            "linesAdded": 4057,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-12-29T05:29:33.258Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\language\\fa\\lang.inc.php",
+            "fileType": ".php",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 2
+      },
+      "changeFrequency": {
+        "5": 2
+      },
+      "topFiles": [
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\language\\fa\\lang.inc.php",
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\cart.inc.php"
+      ],
+      "averageChangeSize": 1646.6666666666667
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    5
+  ],
+  "mostUsedLanguages": [
+    "php"
+  ]
+}
