@@ -2,9 +2,9 @@
   "date": "2025-12-29",
   "projects": {
     "shop": {
-      "totalLinesAdded": 4940,
+      "totalLinesAdded": 8606,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalActiveTime": 3,
       "files": {
         "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\includes\\content\\cart.inc.php": [
           {
@@ -42,6 +42,36 @@
             "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\language\\fa\\lang.inc.php",
             "fileType": ".php",
             "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\language\\en\\lang.inc.php": [
+          {
+            "timestamp": "2025-12-29T06:45:01.422Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\language\\en\\lang.inc.php",
+            "fileType": ".php",
+            "linesAdded": 3658,
+            "linesRemoved": 0,
+            "projectName": "shop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-12-29T06:45:03.691Z",
+            "fileName": "g:\\My Information\\My Websites\\Shot4u\\shot4u.com\\shop\\language\\en\\lang.inc.php",
+            "fileType": ".php",
+            "linesAdded": 8,
             "linesRemoved": 0,
             "projectName": "shop",
             "content": {
